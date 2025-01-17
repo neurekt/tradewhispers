@@ -1,4 +1,3 @@
 # Ignore directories
 notebooks/data/News_Sample
 venv/
-data/
