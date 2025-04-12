@@ -1,57 +1,57 @@
-article,label,classification_binary,misclassification_type
-"… Em entendimento com o governo, o Congresso não analisará antes do relatório bimestral o veto de Lula sobre os R$ 5,6 bi de emendas de comissão, dentro dos esforços da equipe econômica para limitar o contingenciamento.",-1,1,-1 misclassified as 1
-"… Na consulta ao tribunal, o Planejamento estimou que a regra prevista na LDO limitaria o bloqueio a um valor máximo de R$ 25,9 bi, contra cerca de R$ 50 bi que o mercado estima ser necessário para o cumprimento da meta.",-1,1,-1 misclassified as 1
-"… Fica a ansiedade no ar, se Haddad vai continuar bancando a promessa e a “sobrevida” do déficit zero, diante da melhora da percepção fiscal neste início de ano, ou se a Fazenda já dará algum choque imediato de realidade.",-1,1,-1 misclassified as 1
-"… Galípolo e Guillen já andaram telegrafando que o compromisso com novos cortes de 0,5pp da Selic pode ser quebrado em algum momento. Mas talvez ainda não agora, segundo a avaliação de pelo menos dois grandes bancos.",-1,1,-1 misclassified as 1
-"CAPTAÇÕES – O governo pediu ao Senado a ampliação em US$ 50 bilhões, de US$ 75 bilhões para US$ 125 bilhões, do teto estabelecido para a emissão de títulos públicos no exterior, informa o Estadão.",-1,1,-1 misclassified as 1
-"… O dólar acompanhou o clima ruim lá fora e testou mais uma vez o teto dos R$ 5 na máxima do dia (R$ 5,0016). Mas depois a pressão diminuiu com a expectativa de um Copom mais conservador, o que favoreceria o carry trade.",-1,1,-1 misclassified as 1
-"… Nos Treasuries, o juro da note de 2 anos avançou a 4,732% (4,706%) e o da note de 10 anos subiu a 4,313%, de 4,296%. O do T-bond de 30 anos caiu a 4,4303% (4,4342%).",1,-1,1 misclassified as -1
-"VALE. Novo presidente, que substituirá Eduardo Bartolomeo em 2025, poderá ser ligado a acionistas representativos da mineradora…",1,-1,1 misclassified as -1
-"… Apesar das desconfianças fiscais, Campos Neto manifestou, em entrevista à Folha no final de semana, otimismo de que o governo Lula tem condições de entregar um déficit menor do que a projeção do mercado (0,7% a 0,8% do PIB)",1,-1,1 misclassified as -1
-"… O dólar fechou em baixa de 0,35%, aos R$ 4,9553, com perda semanal de 0,76% na semana.",1,-1,1 misclassified as -1
-"… Medido pelo ISM, o PMI industrial dos EUA caiu a 47,8 em fevereiro, ante 49,1 em janeiro e previsão de 49,5.",1,-1,1 misclassified as -1
-"… O consumidor ficou menos otimista. O índice de sentimento da Universidade de Michigan caiu a 76,9 em fevereiro, de 79,0 em janeiro. Analistas esperavam avanço a 79,6.",1,-1,1 misclassified as -1
-"… Os investimentos em construção caíram 0,2% em janeiro ante dezembro, quando se esperava alta de 0,2%.",1,-1,1 misclassified as -1
-"… Logo depois, Robert Holzmann (BCE) voltou a alertar contra cortes prematuros nos juros. Para o ING, a lentidão na desinflação levará o BCE a manter juros em março e abril. Mesma opinião do BofA, Oxford e Capital Economics.",1,-1,1 misclassified as -1
-"… A libra também avançou 0,25%, a US$ 1,2657. Huw Pill (BoE) disse que um corte nos juros “ainda demora um pouco” e que é preciso evitar uma “falsa sensação de segurança” ao avaliar se a inflação caminha para a meta de 2%.",1,-1,1 misclassified as -1
-"… O iene caiu 0,15%, a 150,16/US$. O índice DXY recuou 0,28% no dia e caiu 0,07% na semana.",1,-1,1 misclassified as -1
-"… Dweck só prevê aumento salarial em 2025, de 4,5%, e do mesmo porcentual em 2026, de forma linear.",1,-1,1 misclassified as -1
-"… Na consulta ao TCU, o Planejamento estimou que a regra prevista na LDO limitaria o bloqueio a um valor máximo de R$ 25,9 bi, contra cerca de R$ 50 bi que o mercado estimou como necessários para o governo cumprir a meta.",-1,1,-1 misclassified as 1
-"DENTRO DO CÍRCULO – A B3 não registrava no acumulado de fevereiro uma fuga tão grande de capital externo para o mês, de R$ 9,452 bilhões, desde quatro anos atrás, quando a pandemia do coronavírus estava prestes a estourar.",-1,1,-1 misclassified as 1
-"… No fechamento, o DI para Jan25 caiu a 9,920% (de 9,930%). O DI Jan26, a 9,725% (9,737%). O Jan27, a 9,925% (9,933%); o Jan29, a 10,355% (10,371%), o Jan31 caiu a 10,590% (10,620%); e o Jan33 fechou estável em 10,700%.",1,-1,1 misclassified as -1
-"… Assim, o PL deve ser votado em abril, dentro da vigência da MP 1.202, que vai até maio. Haddad afirmou, porém, que a MP (que atualmente revoga o Perse, reonera as prefeituras e limita compensações tributárias) será mantida.",-1,1,-1 misclassified as 1
-"… Dois dias atrás, a ministra Simone Tebet antecipou que o bloqueio deve ser “muito menor” do que o esperado, diante das surpresas positivas da arrecadação federal em janeiro e também em fevereiro (ainda não divulgada). ",-1,1,-1 misclassified as 1
-"… Na tentativa de melhorar o ambiente com os congressistas, Lula promoveu happy hour na noite de ontem no Palácio do Alvorada com Pacheco e os senadores, duas semanas depois de ter recebido os deputados.",-1,1,-1 misclassified as 1
-"… O câmbio deve monitorar as transações correntes (8h30), com previsão de déficit de US$ 5,6 bi em janeiro, após saldo negativo de US$ 5,834 bilhões em dezembro. Para o IDP, a mediana indica entrada líquida de US$ 5,10 bi.",-1,1,-1 misclassified as 1
-"… Na agenda dos indicadores, o relatório ADP deve apontar a criação de 150 mil vagas de emprego no setor privado em fevereiro, acima de janeiro (107 mil). Os números elevam a expectativa do mercado pelo payroll da 6ªF.",1,-1,1 misclassified as -1
-… A melhora da percepção do risco fiscal doméstico contribuiu para tirar mais prêmio da curva,1,-1,1 misclassified as -1
-"… Os comentários positivos de Campos Neto e Simone Tebet na véspera continuaram a ter impacto no mercado e a precificação de Selic terminal voltou a ficar abaixo de 9,50% na curva do DI.",1,-1,1 misclassified as -1
-"… No fechamento, o DI para Jan25 caiu a 9,890% (de 9,925%). O DI Jan26, a 9,685% (9,735%). O Jan27, a 9,885% (9,936%); o Jan29, a 10,320% (10,363%), o Jan31 caiu a 10,570% (10,603%), e o Jan33, a 10,680% (10,711%).",1,-1,1 misclassified as -1
-"… As encomendas à indústria caíram 3,6% em janeiro ante dezembro, pior do que os -2,8% esperados.",1,-1,1 misclassified as -1
-"… Os PMIs de serviços vieram mistos. Mas o mais acompanhado pelo mercado, o medido pelo ISM, recuou a 52,6 em fevereiro, de 53,4 em janeiro. A previsão era de 52,8.",1,-1,1 misclassified as -1
-"… A meta de Haddad de zerar o déficit no ano segue como um grande desafio e um bloqueio nos gastos em março não está descartado no primeiro relatório bimestral de receitas e despesas, daqui a exatamente duas semanas.",-1,1,-1 misclassified as 1
-"PEC DA AUTONOMIA FINANCEIRA DO BC – O relator, senador Plínio Valério (PSDB-AM), está otimista com a tramitação e diz que a proposta vai andar, independente das resistências enfrentadas dentro do governo.",1,-1,1 misclassified as -1
-"… A PEC, apresentada em dezembro, foi defendida abertamente por Campos Neto em entrevista recente à Folha. ",1,-1,1 misclassified as -1
-"… O resultado primário positivo de R$ 102,146 bilhões divulgado pelo BC – o maior para qualquer mês do ano – ficou acima da expectativa de R$ 98,3 bilhões.",1,-1,1 misclassified as -1
-"… Acompanhando a baixa da moeda lá fora, o dólar à vista fechou em leve queda de 0,23%, a R$ 4,9337.",1,-1,1 misclassified as -1
-"… A eventual mudança na linguagem prepararia o espírito do investidor para cortes menores da Selic (0,25pp) ainda neste semestre e poderia abalar a convicção de Selic terminal abaixo de dois dígitos no levantamento Focus (9%).",1,-1,1 misclassified as -1
-VETOS – O Planalto adiou da semana passada para amanhã a reunião com parlamentares da Comissão Mista de Orçamento para tratar sobre o impasse em torno dos vetos feitos pelo presidente Lula à LDO de 2024.,1,-1,1 misclassified as -1
-"… O assunto vinha gerando pressão dos parlamentares, mas foi distensionado após o governo ceder e cumprir o calendário de pagamento de emenda que estava previsto no projeto. A decisão dos vetos só deve sair após o dia 22.",1,-1,1 misclassified as -1
-"… Na 5ªF, vêm o PPI e vendas no varejo. Na 6ªF, saem a produção industrial de fevereiro, o índice de atividade industrial Empire State de março e as expectativas de inflação de 1 e 5 anos medidas pela Univ. de Michigan.",-1,1,-1 misclassified as 1
-"… Antes da correção das techs, as bolsas leram de forma positiva o payroll de fevereiro e chegaram a subir.",1,-1,1 misclassified as -1
-"… Os EUA criaram 275 mil empregos, bem acima dos 200 mil esperados, mas dados de dezembro e janeiro foram revisados para baixo, num total de 167 mil empregos.",1,-1,1 misclassified as -1
-"… Diante de dados que dão razão ao Fed na falta de pressa para cortar juros, o yield da note de 10 anos subiu a 4,083% (4,077%). O do T-bond de 30 anos avançou a 4,257% (4,242%).",1,-1,1 misclassified as -1
-"… Para o acumulado em 12 meses, a aposta indica desaceleração de 4,51% a 4,44%, abaixo do teto da meta (4,50%).",1,-1,1 misclassified as -1
-"… Citando a dinâmica da inflação de serviços, o Itaú elevou ontem a projeção da Selic de 9,00% para 9,25%.",-1,1,-1 misclassified as 1
-"META FISCAL – Técnicos do governo ouvidos pela Exame afirmaram que a equipe econômica já estimará um déficit fiscal equivalente 0,25% do PIB, ao invés de zero, no relatório bimestral de receitas e despesas, que sai dia 22.",-1,1,-1 misclassified as 1
-"… O Ibov (-0,75%) desceu mais um degrau e fechou no nível dos 126 mil pontos (126.123,56), com giro de R$ 25,6 bi.",-1,1,-1 misclassified as 1
-"… O retorno do DI para Jan25 caiu a 9,870% (de 9,890%); DI Jan26, a 9,700% (9,755%); Jan27, a 9,930% (9,983%); Jan29, a 10,400% (10,445%); o Jan31, a 10,650% (10,692%); e o Jan33, a 10,760% (10,806%).",1,-1,1 misclassified as -1
-"… Nos Treasuries, a toada foi a mesma: prudência antes do CPI. Os curtos subiram mais com o mercado se posicionando para o dado.",-1,1,-1 misclassified as 1
-"… Em entendimento com o governo, o Congresso não analisará antes do relatório bimestral o veto de Lula sobre os R$ 5,6 bi de emendas de comissão, dentro dos esforços da equipe econômica para limitar o contingenciamento.",-1,1,-1 misclassified as 1
-"… Na consulta ao tribunal, o Planejamento estimou que a regra prevista na LDO limitaria o bloqueio a um valor máximo de R$ 25,9 bi, contra cerca de R$ 50 bi que o mercado estima ser necessário para o cumprimento da meta.",-1,1,-1 misclassified as 1
-"… Fica a ansiedade no ar, se Haddad vai continuar bancando a promessa e a “sobrevida” do déficit zero, diante da melhora da percepção fiscal neste início de ano, ou se a Fazenda já dará algum choque imediato de realidade.",-1,1,-1 misclassified as 1
-"… Galípolo e Guillen já andaram telegrafando que o compromisso com novos cortes de 0,5pp da Selic pode ser quebrado em algum momento. Mas talvez ainda não agora, segundo a avaliação de pelo menos dois grandes bancos.",-1,1,-1 misclassified as 1
-"CAPTAÇÕES – O governo pediu ao Senado a ampliação em US$ 50 bilhões, de US$ 75 bilhões para US$ 125 bilhões, do teto estabelecido para a emissão de títulos públicos no exterior, informa o Estadão.",-1,1,-1 misclassified as 1
-"… O dólar acompanhou o clima ruim lá fora e testou mais uma vez o teto dos R$ 5 na máxima do dia (R$ 5,0016). Mas depois a pressão diminuiu com a expectativa de um Copom mais conservador, o que favoreceria o carry trade.",-1,1,-1 misclassified as 1
-"… Nos Treasuries, o juro da note de 2 anos avançou a 4,732% (4,706%) e o da note de 10 anos subiu a 4,313%, de 4,296%. O do T-bond de 30 anos caiu a 4,4303% (4,4342%).",1,-1,1 misclassified as -1
-"VALE. Novo presidente, que substituirá Eduardo Bartolomeo em 2025, poderá ser ligado a acionistas representativos da mineradora…",1,-1,1 misclassified as -1
+cleaned_article,label,classification_binary,misclassification_type
+entendimento governo congresso analisar relatório bimestral veto lula bi emenda comissão esforço equipe econômico limitar contingenciamento,-1,1,-1 misclassified as 1
+consulta tribunal planejamento estimar regra prever ldo limitar bloqueio bi cerca bi mercado estimar necessário cumprimento meta,-1,1,-1 misclassified as 1
+ficar ansiedade ar haddad continuar bancar promessa sobrevida déficit melhora percepção fiscal início ano fazenda dar algum choque imediato realidade,-1,1,-1 misclassified as 1
+galípolo guillen andar telegrafar compromisso corte especial liquidação custódia quebrar algum avaliação banco,-1,1,-1 misclassified as 1
+captações governo pedir senado ampliação bilhão bilhão bilhão teto estabelecer emissão título público exterior informar estadão,-1,1,-1 misclassified as 1
+dólar acompanhar clima ruim testar teto grande dia pressão diminuir expectativa copom conservador favorecer carry trade,-1,1,-1 misclassified as 1
+treasuries juro note ano avançar note ano subir ano cair,1,-1,1 misclassified as -1
+vale presidente substituir eduardo bartolomeo acionista representativo mineradora,1,-1,1 misclassified as -1
+apesar desconfiança fiscal campos neto manifestar entrevista folha semana otimismo governo lula condição entregar déficit projeção mercado produto interno bruto,1,-1,1 misclassified as -1
+dólar fechar baixa perda semanal semana,1,-1,1 misclassified as -1
+medido ism pmi industrial estados unidos cair fevereiro ante janeiro previsão,1,-1,1 misclassified as -1
+consumidor ficar otimista índice sentimento universidade michigan cair fevereiro janeiro analista esperar avanço,1,-1,1 misclassified as -1
+investimento construção cair janeiro ante dezembro esperar alta,1,-1,1 misclassified as -1
+robert holzmann bce voltar alertar corte prematuro juro ing lentidão desinflação levar bce manter juro março abril mesmo opinião bofa oxford capital economics,1,-1,1 misclassified as -1
+libra avançar huw pill boe dizer corte juro demor preciso evitar falso sensação segurança avaliar inflação caminhar meta,1,-1,1 misclassified as -1
+iene cair índice dxy recuar dia cair semana,1,-1,1 misclassified as -1
+dweck prever aumento salarial porcentual linear,1,-1,1 misclassified as -1
+consulta tcu planejamento estimar regra prever ldo limitar bloqueio bi cerca bi mercado estimar necessário governo cumprir meta,-1,1,-1 misclassified as 1
+círculo registrar acumulado fevereiro fuga capital externo ano pandemia coronavírus prestes estourar,-1,1,-1 misclassified as 1
+fechamento depósito interfinanceiro cair depósito interfinanceiro cair fechar estável,1,-1,1 misclassified as -1
+pl votar abril vigência medida provisória maio haddad afirmar medida provisória atualmente revogar perse reonerar prefeitura limitar compensação tributário ser mantir,-1,1,-1 misclassified as 1
+dia ministra simone tebet antecipar bloqueio esperar surpresa positivo arrecadação federal janeiro fevereiro divulgar,-1,1,-1 misclassified as 1
+tentativa melhorar ambiente congressista lula promover happy hour noite palácio alvorada pacheco senador semana receber deputado,-1,1,-1 misclassified as 1
+câmbio monitorar transação corrente previsão déficit bi janeiro saldo negativo bilhão dezembro idp mediana indicar entrada líquido bi,-1,1,-1 misclassified as 1
+agenda indicador relatório adp criação vaga emprego setor privado fevereiro acima janeiro eler expectativa mercado payroll,1,-1,1 misclassified as -1
+melhora percepção risco fiscal doméstico contribuir tirar prêmio curva,1,-1,1 misclassified as -1
+comentário positivo campos neto simone tebet véspera continuar impacto mercado precificação especial liquidação custódia terminal voltar ficar abaixo curva depósito interfinanceiro,1,-1,1 misclassified as -1
+fechamento depósito interfinanceiro cair depósito interfinanceiro cair,1,-1,1 misclassified as -1
+encomenda indústria cair janeiro ante dezembro pior esperar,1,-1,1 misclassified as -1
+pmis serviço vier misto acompanhado mercado medido ism recuar fevereiro janeiro previsão,1,-1,1 misclassified as -1
+meta haddad zerar déficit ano seguir desafio bloqueio gasto março descartado relatório bimestral receita despesa de aqui exatamente semana,-1,1,-1 misclassified as 1
+pec autonomia financeira banco central relator senador plínio valério otimista tramitação proposta andar independente resistência enfrentar governo,1,-1,1 misclassified as -1
+pec apresentar dezembro defender abertamente campos neto entrevista recente folha,1,-1,1 misclassified as -1
+resultado primário positivo divulgar banco central ano ficar acima expectativa,1,-1,1 misclassified as -1
+acompanhando baixa moeda dólar vista fechar leve queda,1,-1,1 misclassified as -1
+mudança linguagem preparario espírito investidor corte pequeno especial liquidação custódia semestre poder abalar convicção especial liquidação custódia terminal abaixo dígito levantamento focus,1,-1,1 misclassified as -1
+vetos planalto adiar semana passado amanhã reunião parlamentar comissão mista orçamento tratar impasse torno veto fazer presidente lula ldo,1,-1,1 misclassified as -1
+assunto vinhr gerar pressão parlamentar distensionar governo ceder cumprir calendário pagamento emenda previsto projeto decisão veto sair dia,1,-1,1 misclassified as -1
+ppi venda varejo sair produção industrial fevereiro índice atividade industrial empire state março expectativa inflação ano medir univ michigan,-1,1,-1 misclassified as 1
+correção techs bolsa ler positivo payroll fevereiro chegar subir,1,-1,1 misclassified as -1
+estados unidos criar emprego acima esperado dado dezembro janeiro revisar total emprego,1,-1,1 misclassified as -1
+dado razão fed pressa cortar juro yield note ano subir ano avançar,1,-1,1 misclassified as -1
+acumulado aposta indicar desaceleração abaixo teto meta,1,-1,1 misclassified as -1
+citar dinâmica inflação serviço itaú elevar projeção especial liquidação custódia,-1,1,-1 misclassified as 1
+meta fiscal técnicos governo ouvir exame afirmar equipe econômico estimar déficit fiscal equivalente produto interno bruto invés relatório bimestral receita despesa sair dia,-1,1,-1 misclassified as 1
+ibov descer degrau fechar giro bi,-1,1,-1 misclassified as 1
+retorno depósito interfinanceiro cair depósito interfinanceiro,1,-1,1 misclassified as -1
+treasuries toada mesmo prudência índice preço consumidor curto subir mercado posicionar dado,-1,1,-1 misclassified as 1
+entendimento governo congresso analisar relatório bimestral veto lula bi emenda comissão esforço equipe econômico limitar contingenciamento,-1,1,-1 misclassified as 1
+consulta tribunal planejamento estimar regra prever ldo limitar bloqueio bi cerca bi mercado estimar necessário cumprimento meta,-1,1,-1 misclassified as 1
+ficar ansiedade ar haddad continuar bancar promessa sobrevida déficit melhora percepção fiscal início ano fazenda dar algum choque imediato realidade,-1,1,-1 misclassified as 1
+galípolo guillen andar telegrafar compromisso corte especial liquidação custódia quebrar algum avaliação banco,-1,1,-1 misclassified as 1
+captações governo pedir senado ampliação bilhão bilhão bilhão teto estabelecer emissão título público exterior informar estadão,-1,1,-1 misclassified as 1
+dólar acompanhar clima ruim testar teto grande dia pressão diminuir expectativa copom conservador favorecer carry trade,-1,1,-1 misclassified as 1
+treasuries juro note ano avançar note ano subir ano cair,1,-1,1 misclassified as -1
+vale presidente substituir eduardo bartolomeo acionista representativo mineradora,1,-1,1 misclassified as -1
