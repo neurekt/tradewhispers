@@ -1,3 +1,18 @@
-# Ignore directories
-notebooks/data/News_Sample
+# Virtual environment
 venv/
+.env
+
+# VSCode settings
+.vscode/
+
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Data (keep only processed)
+data/raw/
+data/interim/
+data/unused/
+
+# Jupyter
+*.ipynb_checkpoints
