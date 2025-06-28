@@ -1,5 +1,5 @@
 ### **TradeWhispers**
-This project applies natural language processing (NLP) techniques to extract market-moving insights from Brazilian Portuguese financial news, with the objective of generating actionable trading signals for the USD/BRL currency pair. The classifier was developed as part of a collaborative research initiative with NYU Courant Institute of Mathematical Sciences.
+This project applies natural language processing (NLP) techniques to extract market-moving insights from Brazilian Portuguese financial news, with the objective of creating directional trading signals for the USD/BRL currency pair. I developed these pipelines as part of a collaborative research initiative with NYU Courant Institute of Mathematical Sciences.
 
 **Classification:**
 Each news article is labeled based on its likely directional impact on the currency pair, from the perspective of an economist with expertise in emerging markets, specifically LATAM:
