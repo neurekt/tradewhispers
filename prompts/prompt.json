@@ -1,0 +1,221 @@
+{
+  "ROLE": "You are a senior macroeconomic research analyst specializing in emerging markets, international finance, and FX trading. Your job is to assess financial news in Brazilian Portuguese and classify its likely impact on the Brazilian Real (BRL) relative to the U.S. Dollar (USD).",
+  "TASK": "Classify the directional macroeconomic signal of the article below with respect to the USD/BRL exchange rate. Focus strictly on monetary, fiscal, trade, or political content that has clear macroeconomic implications. Ignore emotional tone, public sentiment, or individual stock movements unless they indicate direct currency effects. Base your decision only on short-term FX-relevant macroeconomic reasoning.",
+  "PREPROCESSING_NOTE": "If the article includes acronyms or abbreviations (e.g., “BCB”, “Selic”, “IPCA”, “PEC”, “FGV”, “CMN”), you must interpret them using your professional economic training and contextual cues from the article. Do not assume definitions outside the context provided. Treat ambiguous acronyms cautiously and avoid overinterpretation.",
+  "CLASSIFICATION_RULES": {
+  "+1": "BRL expected to rise (USD/BRL likely to fall)",
+  "0": "No actionable macro signal (Neutral)",
+  "-1": "BRL expected to fall (USD/BRL likely to rise)"
+  },
+  "RULE_DETAILS": {
+  "+1": [
+  "Evidence of fiscal improvement, such as public deficit control, successful fiscal reform, or government action reducing macroeconomic risk",
+  "Hawkish signals from the Central Bank of Brazil (e.g., interest rate hikes or tightening stance)",
+  "Strength in Brazil’s economic performance or outlook (e.g., strong GDP growth, declining inflation, sectoral strength)",
+  "Appreciation-driving political developments (e.g., increased confidence in leadership, successful policy execution)",
+  "Rising prices of key export commodities (e.g., oil, soybeans, iron ore), supporting Brazil’s trade balance and capital inflow",
+  "Positive investment flows or announcements suggesting inflows of foreign capital"
+  ],
+  "0": [
+  "Purely descriptive news without significant expectations or alarms",
+  "Stock market, equity, or corporate performance updates with no clear macroeconomic consequences",
+  "General financial journalism, commentary, or opinions not tied to FX-relevant developments",
+  "Mixed signals, speculative outlooks, or unclear consequences for inflation, rates, or fiscal health",
+  "Stable market conditions or information already priced into the exchange rate"
+  ],
+  "-1": [
+  "Indicators of economic weakness or rising costs (e.g., fiscal uncertainty, debt concerns, negative growth)",
+  "Dovish monetary policy signals or speculation on BCB rate cuts",
+  "Political instability, market distrust, or government dysfunction",
+  "Crisis indicators, such as falling commodity prices (oil, iron ore, etc.), external shocks, or warnings by analysts about risk",
+  "High interest rate curve or policy uncertainty in Brazil leading to loss of investor confidence or capital flight",
+  "import tariffs from the United States on Brazilian goods"
+  ]
+  },
+  "INSTRUCTIONS": [
+  "Output only the classification: +1, 0, or -1",
+  "Do not provide any explanation or repeat the input",
+  "Be decisive. If macroeconomic impact is unclear or irrelevant, respond with 0",
+  "Do not infer information beyond what is explicitly stated",
+  "IMPORTANT: Avoid defaulting to 0. Only assign 0 if no directional macroeconomic signal is clearly supported by the content.",
+  "Do not use 0 as a fallback when uncertain—use it only when confident that the article is irrelevant to currency movement.",
+  "\"Actionable macro signal\" means an event or forecast with a reasonable likelihood of impacting exchange rates in the near term based on historically consistent FX drivers."
+  ],
+  "ARTICLES": [
+  {
+    "BEGIN_INPUT": {
+      "HEADLINE": "BC: Fluxo cambial total na semana passada (11 a 14/11) foi negativo em US$ 1,989 bi",
+      "ARTICLE_BODY": "O Banco Central informou que o fluxo cambial total na semana passada (11 a 14/11) foi negativo em US$ 1,989 bilhão, resultado de saída de US$ 1,262 bilhão pela conta financeira e saída de US$ 727 milhões pela conta comercial. No acumulado de novembro, até dia 14, o fluxo total está negativo em US$ 1,421 bilhão, com saída de US$ 324 milhões pelo canal financeiro e US$ 1,097 bilhão pela via comercial. No ano, até dia 14/11, o fluxo total segue positivo em US$ 8,132 bilhões. O BC informou ainda que teve perda de R$ 3,886 bilhões com swap cambial. A posição cambial líquida está em US$ 245,348 bilhões."
+    },
+    "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+  },
+  {
+      "BEGIN_INPUT": {
+        "HEADLINE": "Juros futuros batem nas mínimas do dia",
+        "ARTICLE_BODY": "DI Jan27 a 13,330%; Jan29 a 13,145%; Jan31 a 12,990%; Jan33 a 12,870%"
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    },
+    {
+      "BEGIN_INPUT": {
+        "HEADLINE": "Reino Unido/Starmer: Iremos apoiar a Ucrania com o que for preciso, e pelo tempo que for preciso",
+        "ARTICLE_BODY": "O primeiro-ministro do Reino Unido, Keir Starmer, afirmou hoje que 'o apoio do Reino Unido à Ucrania é sempre para autodefesa'. Em discurso no parlamento britânico, o líder trabalhista afirmou que o apoio é 'proporcional, coordenado e ágil, e uma resposta às próprias ações da Rússia, e está em conformidade com o direito internacional. Nos termos do artigo 51.º da Carta das Nações Unidas, a Ucrania tem um claro direito de autodefesa contra os ataques ilegais da Rússia'. 'Iremos apoiar a Ucrania com o que for preciso, e pelo tempo que for preciso', afirmou Starmer. As declarações vieram após as forças armadas da Ucrania dispararem mísseis de cruzeiro britânicos contra alvos militares dentro da Rússia pela primeira vez."
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    },
+    {
+      "BEGIN_INPUT": {
+        "HEADLINE": "EUA: Matt Gaetz desiste de se tornar secretário de Justiça após críticas de opositores e republicanos",
+        "ARTICLE_BODY": "O ex-deputado Matt Gaetz se retirou da disputa para se tornar secretário da Justiça dos Estados Unidos após sua indicação pelo presidente eleito Donald Trump ter provocado críticas não só de opositores, mas também de membros do Partido Republicano. 'Embora o impulso fosse forte, ficou claro que minha confirmação estava se tornando injustamente uma distração para o trabalho crítico da transição Trump/Vance', disse Gaetz no X. 'Não há tempo a perder com uma disputa desnecessariamente prolongada em Washington; por isso, retirarei meu nome da consideração para o cargo de Procurador-Geral'. Membros do Partido Republicano veem no ex-deputado um nome radical e com um passado marcado por polêmicas, como no caso em que se envolveu com uma menor de idade."
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    },
+    {
+      "BEGIN_INPUT": {
+        "HEADLINE": "IFI estima que governo precisa de R$ 13,6 bi até dezembro para alcançar piso da banda da meta fiscal deste ano",
+        "ARTICLE_BODY": "A Instituição Fiscal Independente (IFI), órgão de monitoramento das contas públicas, ligado ao Senado, estima que o governo precisa de um esforço fiscal adicional de R$ 13,6 bilhões no último bimestre deste ano para cumprir a meta de resultado primário no limite inferior da banda de tolerância, mesmo contabilizando os abatimentos legais previstos (precatórios, apoio ao Rio Grande do Sul e combate aos incêndios florestais). Se o objetivo fosse atingir o centro da meta, ou seja, o déficit zero, o esforço fiscal adicional em novembro e dezembro teria de ser de R$ 42,3 bilhões. As informações constam no Relatório de Acompanhamento Fiscal (RAF) de novembro, divulgado há pouco. A meta de resultado primário deste ano é zero, mas há uma margem de tolerância que admite um déficit de até R$ 28,3 bilhões no ano. Os ministérios da Fazenda e do Planejamento projetavam em setembro que o governo fecharia o ano com um resultado negativo de R$ 28,3 bilhões. Esse número será atualizado amanhã com a divulgação do novo relatório de avaliação de receitas e despesas."
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    },
+    {
+      "BEGIN_INPUT": {
+        "HEADLINE": "PF envia ao STF relatório final do inquérito da tentativa de golpe e indicia Bolsonaro",
+        "ARTICLE_BODY": "A Polícia Federal (PF) enviou ao gabinete do ministro Alexandre de Moraes (STF) o relatório final do inquérito que apura se houve tentativa de golpe de Estado no país após a eleição presidencial de 2022. A lista de indiciados é encabeçada pelo ex-presidente Jair Bolsonaro. O relatório sustenta haver indícios de que Bolsonaro sabia do plano para matar o presidente Luiz Inácio Lula da Silva, o vice-presidente, Geraldo Alckmin, e o ministro Alexandre de Moraes em 2022. A aliados, Bolsonaro nega que tinha conhecimento. O documento tem cerca de 700 páginas e aponta o envolvimento de 37 pessoas na trama golpista, incluindo o ex-ministro Walter Braga Netto."
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    },
+    {
+      "BEGIN_INPUT": {
+        "HEADLINE": "Argentina: FMI confirma negociações com governo Milei para novo acordo",
+        "ARTICLE_BODY": "Apenas 48 horas após o encontro do presidente da Argentina, Javier Milei, com a diretora do FMI, Kristalina Georgieva, durante o encontro do G20 no Rio, o Fundo confirmou que o governo argentino está atrás de um novo acordo e fez elogios aos resultados 'impressionantes' do plano econômico do atual presidente. 'As autoridades argentinas continuam a aplicar o seu programa de estabilização econômica e está produzindo resultados impressionantes. Estes resultados incluem uma redução significativa da inflação, um excedente fiscal e uma melhor cobertura das reservas', afirmou a porta-voz do FMI, Julie Kozack, em conferência de imprensa. 'Há também sinais de recuperação tanto da atividade econômica como dos salários reais.' O acordo em vigor entre a Argentina e o FMI termina este ano. A porta-voz não demais mais detalhes sobre as negociações."
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    },
+    {
+      "BEGIN_INPUT": {
+        "HEADLINE": "MERCADOS: Ibovespa ignora alta das bolsas americanas; juros futuros recuam, na contramão dos Treasuries e do dolar",
+        "ARTICLE_BODY": "O investidor doméstico segue à espera do pacote de corte de gastos do governo, enquanto monitora as tensões entre Rússia e Ucrania, avalia os números da arrecadação federal em outubro e aguarda também o relatório bimestral de receitas e despesas, nesta 6ªF. O indiciamento de Bolsonaro no inquérito da Polícia Federal sobre os atos golpistas também causa burburinho nas mesas de operações. Há pouco, o Ibovespa caía 0,61%, aos 127.435 pontos, enquanto o dolar à vista subia 0,70% (R$ 5,8077) e os juros futuros operavam nas mínimas do dia (DI Jan27 a 13,310%; Jan29 a 13,115%; Jan31 a 12,950%). Em NY, as bolsas firmaram alta (Dow Jones +1,38%; S&P500 +0,71%; Nasdaq 0,25%), os juros dos Treasuries passaram a subir (T-Note de 2 anos a 4,3349%) e o dolar continua avançando sobre os pares (DXY +0,29%)."
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    },
+    {
+      "BEGIN_INPUT": {
+        "HEADLINE": "IFI: Quatro decisões adotadas entre transição e 1º ano do governo Lula custarão até R$ 3 tri em 10 anos",
+        "ARTICLE_BODY": "Quatro decisões políticas tomadas entre o período de transição e o primeiro ano do novo governo Lula podem gerar despesas adicionais entre R$ 2,3 trilhões e R$ 3 trilhões num período de dez anos, estimou a Instituição Fiscal Independente (IFI). A expansão fiscal contabiliza a incorporação do aumento do Bolsa Família para o patamar pago ao longo da pandemia, a retomada da vinculação das despesas de educação e saúde às receitas, a correção do salário mínimo acima da inflação e sua manutenção como indexador, e a criação dos fundos orçamentários previstos na reforma tributária. 'A magnitude da expansão fiscal e a rigidez do orçamento formam a percepção de que medidas conjunturais não serão suficientes para reverter o quadro de insustentabilidade do limite de gastos do arcabouço fiscal, podendo apenas adiar a necessidade de alteração do normativo a médio prazo', diz o analista da IFI, Eduardo Nogueira."
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    },
+    {
+      "BEGIN_INPUT": {
+        "HEADLINE": "BC: Há sinais de inflexão das condições de oferta de crédito no 4TRI24",
+        "ARTICLE_BODY": "A conclusão consta da Pesquisa Trimestral de Condições de Crédito (PTC), divulgada hoje. 'Espera-se que o segmento de PF [pessoa física] Habitacional tenha condições mais restritivas e que o segmento de MPMEs [micro, pequenas e médias empresas] deixe o campo levemente positivo', diz o relatório da PTC. 'Em contraste, no segmento de PF Consumo, se espera a manutenção de condições flexíveis.' O BC cita três elementos que justificam essa expectativa para o quarto trimestre. Em primeiro lugar, a avaliação de que a demanda deve permanecer 'relativamente forte' em todos os setores. Em segundo, a expectativa de queda da inadimplência nos segmentos PF, menor crescimento para MPMEs e melhora dos ratings de grandes empresas. Em terceiro, a leitura de que o custo/disponibilidade de funding deve ser mais restritivo para MPMEs e PF."
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    },
+    {
+      "BEGIN_INPUT": {
+        "HEADLINE": "Rússia: Putin afirma que lançou novo míssil balístico hipersonico contra a Ucrania e faz alerta ao Ocidente",
+        "ARTICLE_BODY": "O presidente da Rússia, Vladimir Putin, disse que usou um novo modelo de míssil balístico de médio alcance contra a Ucrania, em resposta à autorização dada por EUA e Reino Unido para que Kiev use armas ocidentais em ações mais profundas contra o território russo. Mais cedo, autoridades ucranianas disseram que a Rússia havia utilizado um míssil balístico intercontinental, associado aos arsenais nucleares do país, em um ataque ontem. 'Um dos mais novos sistemas russos de mísseis de médio alcance foi testado em condições de combate, neste caso com um míssil balístico equipado com equipamento hipersonico não nuclear. Nossos cientistas de foguetes o chamaram de 'Oreshnik'', disse Putin, em pronunciamento. 'Os testes foram bem sucedidos, o objetivo de lançamento foi alcançado.'"
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    },
+    {
+      "BEGIN_INPUT": {
+        "HEADLINE": "Ex-comandantes do Exército e Aeronáutica revelaram à PF que Bolsonaro apresentou plano de golpe",
+        "ARTICLE_BODY": "A investigação que levou ao indiciamento de Bolsonaro e outras 36 pessoas por tentativa de golpe teve como um dos principais eixos condutores os depoimentos dos ex-comandantes do Exército, Marco Antonio Freire Gomes, e da Aeronáutica, Carlos de Almeida Baptista Júnior, informa O Globo. Os depoimentos colocaram Bolsonaro no centro da trama golpista. Após a derrota para Lula, o ex-presidente convocou reuniões no Palácio da Alvorada com a presença dos comandantes das Forças Armadas e de Paulo Sérgio Nogueira, então ministro da Defesa. Bolsonaro apresentou um documento que previa as hipóteses de instaurar Estado de defesa ou de sítio, além de dar início a uma operação de Garantia da Lei e da Ordem (GLO). A minuta golpista seria o primeiro passo para impedir a posse de Lula, de acordo com a investigação. O advogado Fabio Wajngarten, que defende o ex-presidente, já afirmou anteriormente nas que 'não houve nada de golpe nem de prisão'."
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    },
+    {
+      "BEGIN_INPUT": {
+        "HEADLINE": "Santander estima bloqueio adicional de R$ 5 bi em despesas no relatório bimestral amanhã",
+        "ARTICLE_BODY": "O Santander Brasil projeta que o relatório bimestral de avaliação de receitas e despesas do ministério da Fazenda, a ser divulgado amanhã, irá apresentar um bloqueio adicional de R$ 5,0 bilhões nas despesas do governo deste ano, afirma o economista Italo Franca em nota. Em relação à arrecadação federal de outubro, ele destaca que o desempenho foi mais uma vez positivamente influenciado pelas medidas tributárias aprovadas pelo governo, a atividade econômica em ritmo forte e o efeito da reoneração completa do Pis/Cofins sobre os combustíveis. 'Para 2024, prevemos um aumento real na arrecadação de impostos de cerca de 8,5% (com viés altista), o que consideramos um nível forte, muito superior ao que esperávamos', destacou Franca. Ele acrescenta que, se atingido esse resultado, a chance de cumprimento da banda de resultado primário (de -0,25% do PIB) é de 65% neste ano. 'Em termos de percepção de risco fiscal, o foco está na contenção do crescimento dos gastos e na economia relevante para 2025 e 2026 para facilitar a conformidade com o limite de despesas.'"
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    },
+    {
+      "BEGIN_INPUT": {
+        "HEADLINE": "EMPRESAS:  Allos anuncia saída de vice-presidente de negócios e de diretor comercial",
+        "ARTICLE_BODY": "A Allos anunciou que o diretor-presidente Rafael Sales assumirá as diretorias de operações e comercial após seu vice-presidente de negócios, Leandro Lopes, e o diretor comercial, Felipe Andrade, renunciarem a seus cargos, por razões pessoais, informa o *Valor*. De acordo com a empresa, Lopes deixará sua posição no dia 31 de dezembro e Andrade sairá em março de 2025. Assim, as diretorias de operações e comercial passam a reportar diretamente à presidência da empresa, enquanto a vice-presidência será dividida entre o diretor de operações, Vicente Avelar, e a diretora financeira, Daniella Guanabara."
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    },
+    {
+      "BEGIN_INPUT": {
+        "HEADLINE": "IBGE/PNAD Contínua Trimestral: desocupação recua em 7 das 27 UFs no terceiro trimestre de 2024",
+        "ARTICLE_BODY": "Desemprego no terceiro trimestre de 2024 foi de 6,4%, recuando 0,5 ponto percentual ante o segundo trimestre de 2024 (6,9%) e caindo 1,3ponto frente ao mesmo trimestre de 2023 (7,7%). Frente ao trimestre anterior, a taxa de desocupação recuou em 7 das 27 Unidades da Federação (UFs), mantendo-se estável nas outras 20. As maiores taxas foram de Pernambuco (10,5%), Bahia (9,7%), Distrito Federal (8,8%) e Rio Grande do Norte (8,8%), e as menores, de Santa Catarina (2,8%), Mato Grosso (2,3%) e Rondonia (2,1%)."
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    },
+    {
+      "BEGIN_INPUT": {
+        "HEADLINE": "MERCADOS: dolar cai e juros rondam ajuste com pacote fiscal adiado para semana que vem",
+        "ARTICLE_BODY": "O dolar inverteu o sinal após abrir em alta e há pouco cedia 0,18%, a R$ 5,8013, na contramão das divisas emergentes. A moeda sobe majoritariamente ante pares, com o DXY avançando a 107 pontos (107,622), em +0,61%, enquanto o euro cai com dados europeus e o iene ganha após CPI japonês, em meio a observações de membros do Fed de que a inflação ainda inspira cuidado e que o mercado de trabalho precisa esfriar mais. Chances de corte de 25 pb nos juros do Fed em dezembro caíram de 72,2% para 57,8%.  A escalada da guerra na Ucrania reforça a cautela. Os juros futuros abriram perto do ajuste e há pouco apontavam para cima, enquanto os rendimentos dos Treasuries recuam. O pacote fiscal foi adiado para a próxima semana. Ontem, o ministro Fernando Haddad afirmou que o tamanho do pacote é suficiente para reforçar arcabouço. O Ibovespa futuro abriu em alta após plano estratégico da Petrobras. A estatal anunciou o pagamento de R$ 20 bi em dividendos extraordinários, que renderá R$ 5,7 bi para o governo federal."
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    },
+    {
+      "BEGIN_INPUT": {
+        "HEADLINE": "Em encontro com BC, economistas esperam mais desancoragem e debatem alta de 0,75pp da Selic em dezembro",
+        "ARTICLE_BODY": "Os economistas que se reuniram hoje com o diretor de Política econômica do Banco Central, Diogo Guillen, alertaram para uma tendência de piora das expectativas no Focus. Por isso, eles chegaram a debater se o Copom deveria acelerar o ritmo de aperto na próxima reunião, em dezembro, e aumentar a Selic em 0,75 pp. Conforme apurou o Broadcast, essa alternativa foi mencionada por alguns participantes, mesmo sem ser o cenário-base da maioria. Em linhas gerais, os analistas disseram que as tradicionais revisões de cenário de fim de ano devem levar a uma nova rodada de desancoragem das expectativas, que vem sendo tratada com preocupação pelo BC. Um grande consenso do encontro foi de que os números de atividade de setembro surpreenderam."
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    },
+    {
+      "BEGIN_INPUT": {
+        "HEADLINE": "BCE/Villeroy de Galhau: Corremos o risco de manter economia da Europa desnecessariamente lenta",
+        "ARTICLE_BODY": "O dirigente do BCE e presidente do BC da França, François Villeroy de Galhau, disse que os dirigentes estão confiantes de que a vitória contra a inflação está próxima, mas é preciso prestar atenção ao 'equilíbrio de riscos', incluindo o risco da inflação ficar abaixo da meta ou de a atividade econômica ser mantida 'desnecessariamente lenta'. 'Apesar das possíveis oscilações para cima e para baixo nos próximos meses, estamos muito confiantes de que nossa meta de 2% será alcançada de forma sustentável', disse Galhau em evento em Frankfurt, acompanhado do dirigente do BCE e presidente do BC da Alemanha, Joachim Nagel."
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    },
+    {
+      "BEGIN_INPUT": {
+        "HEADLINE": "Petrobras/Magda: Tendo garantia da viabilidade do plano, não tem por que não pagar dividendos",
+        "ARTICLE_BODY": "A presidente da Petrobras, Magda Chambriard, disse há pouco que, existindo 'garantia de viabilidade' para o Plano Estratégico 2025-2029, a estatal vai continuar distribuindo dividendos aos acionistas. Segundo ela, havendo caixa, a companhia vai investir ou pagar proventos. 'A Petrobras não está interessada em empilhar dinheiro', disse Magda em teleconferência a investidores sobre o novo Plano de Investimentos. A presidente da estatal lembrou que o investimento previsto para o período 2025-2029 (US$ 111 bilhões) cresceu em relação ao que foi efetivamente realizado do plano anterior, que previa US$ 102 bilhões em cinco anos. Segundo ela, a Petrobras estava investindo cerca de 30% a menos do que o previsto. O investimento previsto para 2025 foi ajustado de US$ 21 bilhões para US$ 18,5 bilhões. 'A Petrobras precisa crescer pelo menos 60% até 2050 para acompanhar o crescimento da demanda.'"
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    },
+    {
+      "BEGIN_INPUT": {
+        "HEADLINE": "EMPRESAS: Petrobras mantém conversas com Inpasa para retornar à produção de etanol, dizem fontes",
+        "ARTICLE_BODY": "A Petrobras mantém conversas com a Inpasa Agroindustrial para retornar à produção de etanol, segundo fontes do *Broadcast*. A Inpasa seria apenas uma das empresas com as quais a estatal estaria em negociações. De acordo com a apuração, a Petrobras teria a intenção de evitar parcerias com empresas de outras petroleiras, como BP e Raízen (de Shell e Cosan), apesar de seu tamanho no mercado de etanol. Isso fortaleceria a posição da Inpasa. Segundo o diretor de Transição Energética e Sustentabilidade da estatal, Mauricio Tolmasquim, a Petrobras planeja criar uma joint-venture com outra grande empresa do setor para ter uma posição grande nesse mercado."
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    },
+    {
+      "BEGIN_INPUT": {
+        "HEADLINE": "EMPRESAS: Acionistas da Vamos Locação aprovam operação com Automob",
+        "ARTICLE_BODY": "Os acionistas da Vamos Locação, controlada da Simpar, aprovaram em AGE realizada hoje todas as matérias pertinentes às etapas da reorganização societária envolvendo a companhia e a Automob, informa o *Valor*. A proposta tratava da cisão dos negócios de concessionárias da Vamos e subsequente fusão com os negócios da Automob, também subsidiária da Simpar, em uma nova companhia. A Simpar, conforme havia informado, acompanhou os votos dos 91,59% dos acionistas minoritários que aprovaram a operação na AGE."
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    },
+    {
+      "BEGIN_INPUT": {
+        "HEADLINE": "Petrobras/Melgarejo: Não há interesse em estatizar a Braskem",
+        "ARTICLE_BODY": "O diretor Financeiro e de Relações com Investidores da Petrobras, Fernando Melgarejo, disse hoje que não há interesse da companhia em estatizar a Braskem, da qual é acionista minoritária. Segundo o executivo, a empresa não pretende aumentar a participação para além de 50%. Atualmente, a companhia possui uma fatia de 36% do capital da petroquímica, controlada pela Novonor."
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    },
+    {
+      "BEGIN_INPUT": {
+        "HEADLINE": "MERCADOS: Petróleo sobe mais de 6% na semana com piora do cenário geopolítico na Europa",
+        "ARTICLE_BODY": "O petróleo registrou sua maior alta semanal desde o fim de setembro, na esteira do aumento das tensões entre Rússia e Ucrania. Vladimir Putin disse ontem que a Rússia disparou um míssil hipersonico contra a Ucrania e hoje anunciou a produção em série dos novos mísseis. O mercado também acompanhou a declaração conjunta da Opep e da Rússia, que renovaram o compromisso de manter a estabilidade dos mercados de petróleo e energia. O vice-primeiro-ministro da Rússia, Alexander Novak, ressaltou que o país continuará como 'fornecedor confiável' no mercado de petróleo. O Brent para janeiro subiu 1,26%, a US$ 75,17 por barril, na ICE. E o WTI para janeiro avançou 1,63%, a US$ 71,24 por barril, na Nymex. Na semana, os contratos avançaram 6,2% e 6,6%, respectivamente."
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    },
+    {
+      "BEGIN_INPUT": {
+        "HEADLINE": "Associações de bancos médios se manifestam contra proposta de aumento da garantia do FGC",
+        "ARTICLE_BODY": "A associação Brasileira de Bancos (ABBC), a Associação Nacional das Instituições de Crédito, Financiamento e Investimento (Acrefi) e a Zetta divulgaram nota contra um eventual aumento da garantia do Fundo Garantidor de Créditos (FGC), de R$ 250 mil para R$ 1 milhão. As entidades, que representam 126 instituições pequeno e médio porte elegíveis a emitir títulos com garantia do FGC, se manifestaram contra o projeto de lei 4.395/2024, apresentado neste mês pelo deputado Filipe Barros (PL-PR). O tema, no entanto, voltou ao debate mais cedo neste ano, quando o senador Ciro Nogueira (PP-PI) apresentou uma emenda para elevar a proteção. A medida foi sugerida no âmbito das discussões da PEC 65/2023, que discute a autonomia orçamentária do Banco Central. 'Como o limite de garantia ordinária atual, de R$ 250 mil, já cobre mais de 99% do número de contas e de depósitos, a ampliação só serviria para beneficiar a parcela de investidores e depositantes mais qualificados e de alta renda', dizem as entidades, em nota. Elas argumentam que a medida aumentaria o custo de captação e prejudicaria especialmente as instituições de menor porte."
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    },
+    {
+      "BEGIN_INPUT": {
+        "HEADLINE": "Maiores altas do Ibovespa:",
+        "ARTICLE_BODY": "Santander: +1,56% (R$ 26,65) Raízen: +1,54% (R$ 2,64) Vivara: +1,30% (R$ 24,08) Maiores baixas do Ibovespa: Carrefour : -4,67% (R$ 6,33) Vamos: -1,97% (R$ 5,98) Bradesco ON: -1,48% (R$ 11,96)"
+      },
+      "EXPECTED_OUTPUT": "[Insert response here: +1, 0, or -1]"
+    }
+  ]
+}
