@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Noticia codigo="13794279-7660-4991-8f26-95333f8ca11f">
+  <Categoria><![CDATA[Finanças]]></Categoria>
+  <Origem>28</Origem>
+  <Data>07/08/2024</Data>
+  <Link>https://valor.globo.com/financas/noticia/2024/08/07/bolsas-de-ny-revertem-ganhos-e-fecham-no-vermelho.ghtml</Link>
+  <Procedencia>Igor Sodré</Procedencia>
+  <Manchete><![CDATA[Bolsas de NY revertem ganhos e fecham no vermelho]]></Manchete>
+  <Texto><![CDATA[Depois de passar a maior parte da sessão em alta impulsionadas pelos comentários “dovish” de um representante do banco do Japão (BoJ), os principais índices acionários de Nova York inverteram o sinal e fecharam o dia em queda. O movimento se deu após um leilão de Treasuries de 10 anos registrar uma demanda baixa, o que deu força para os rendimentos dos títulos e pressionou as bolsas.
+
+
+Em Wall Street, o índice Dow Jones teve queda de 0,60%, a 38.763,45 pontos; o S&P 500 caiu 0,77%, a 5.199,50 pontos; e o Nasdaq recuou 1,05%, a 16.195,81 pontos. As ações de tecnologia, que mostraram ganhos expressivos no início do dia, passaram para o campo negativo. A Nvidia recuou 5,08%, enquanto a Meta Platforms teve queda de 1,05% e a Advanced Micro Devices (AMD) caiu 1,16%.
+
+Pela manhã, o vice-presidente do BoJ, Shinichi Uchida, disse que a autoridade monetária não irá elevar as taxas de juros enquanto os mercados estiverem instáveis, o que aumentou o apetite ao risco nos mercados.
+]]></Texto>
+  <idioma><![CDATA[Português]]></idioma>
+  <DataEnvio>07/08/2024</DataEnvio>
+</Noticia>
+
+<?xml version="1.0" encoding="utf-8"?>
+<Noticia codigo="1863b43e-cf14-4f9b-9226-7ac40bff2c46">
+  <Categoria><![CDATA[Finanças]]></Categoria>
+  <Origem>28</Origem>
+  <Data>06/08/2024</Data>
+  <Link>https://valor.globo.com/financas/noticia/2024/08/06/ibovespa-sobe-apoiado-por-acoes-de-bancos-em-meio-a-recuperacao-das-bolsas-de-ny.ghtml</Link>
+  <Procedencia>Maria Fernanda Salinet</Procedencia>
+  <Manchete><![CDATA[Ibovespa sobe apoiado por ações de bancos em meio à recuperação das bolsas de NY]]></Manchete>
+  <Texto><![CDATA[O Ibovespa encerrou em alta firme a sessão desta terça-feira, acompanhando o fôlego renovado das bolsas de Nova York, após o pânico nos mercados globais na sessão anterior. A recuperação ocorre à medida em que a preocupação em torno de uma possível recessão nos Estados Unidos é deixada em segundo plano pelos investidores.
+
+
+As ações de bancos e de exportadoras de commodities ajudaram a impulsionar o índice, como é o caso de Itaú PN e Bradesco PN que subiram 2,22% e 3,31%, respectivamente. Já os papéis ordinários da Vale avançaram 0,51%, enquanto os preferenciais da Petrobras subiram 1,74% e os ordinários 2,09%, em meio à alta do petróleo no mercado internacional. 
+
+
+No fim do dia, o Ibovespa subiu 0,80%, aos 126.267 pontos. Nas mínimas intradiárias, tocou os 125.261 pontos e, nas máximas, os 126.966 pontos. O volume financeiro negociado na sessão (até as 17h15) foi de R$ 17,17 bilhões no Ibovespa e R$ 22,45 bilhões na B3. Em Nova York, o S&P 500 ganhou 1,04%, aos 5.240 pontos, o Dow Jones fechou em alta de 0,76%, aos 30.998 pontos e o Nasdaq avançou 1,03%, aos 16.367 pontos.]]></Texto>
+  <idioma><![CDATA[Português]]></idioma>
+  <DataEnvio>06/08/2024</DataEnvio>
+</Noticia>
+
+<?xml version="1.0" encoding="utf-8"?>
+<Noticia codigo="18af844d-3cab-45b2-97e8-0c30d3a95cc6">
+  <Categoria><![CDATA[Finanças]]></Categoria>
+  <Origem>28</Origem>
+  <Data>07/08/2024</Data>
+  <Link>https://valor.globo.com/financas/noticia/2024/08/07/estrangeiros-aportam-r-81-milhoes-na-b3-em-5-de-agosto.ghtml</Link>
+  <Procedencia>Maria Fernanda Salinet</Procedencia>
+  <Manchete><![CDATA[Estrangeiros aportam R$ 81 milhões na B3 em 5 de agosto]]></Manchete>
+  <Texto><![CDATA[Os investidores estrangeiros aportaram R$ 81 milhões em recursos no segmento secundário da B3 (ações já listadas) na segunda-feira, 5 de agosto, dia em que o Ibovespa caiu 0,46%. Assim, o déficit mensal da categoria ficou em R$ 400 milhões e o saldo negativo do ano alcançou R$ 37 bilhões. 
+
+
+Já o investidor institucional aportou R$ 49 milhões na segunda-feira. Com isso, o déficit mensal totaliza R$ 516 milhões e o déficit anual soma R$ 5 bilhões. 
+
+
+E o investidor individual retirou R$ 161 milhões no mesmo dia, levando o superávit em agosto para R$ 934 milhões e o superávit de 2024 para R$ 24 bilhões. As informações foram divulgadas pela B3. ]]></Texto>
+  <idioma><![CDATA[Português]]></idioma>
+  <DataEnvio>07/08/2024</DataEnvio>
+</Noticia>
+
+<?xml version="1.0" encoding="utf-8"?>
+<Noticia codigo="1a5bca42-e31a-4336-81bd-916b7a3c503c">
+  <Categoria><![CDATA[Finanças]]></Categoria>
+  <Origem>28</Origem>
+  <Data>06/08/2024</Data>
+  <Link>https://valor.globo.com/financas/noticia/2024/08/06/ibovespa-inicia-sessao-em-leve-alta-um-dia-apos-panico-nas-bolsas-globais.ghtml</Link>
+  <Procedencia>Maria Fernanda Salinet</Procedencia>
+  <Manchete><![CDATA[Ibovespa inicia sessão em leve alta um dia após pânico nas bolsas globais]]></Manchete>
+  <Texto><![CDATA[O Ibovespa inicia em leve alta os negócios desta terça-feira, em sinal de recuperação após o pânico nos mercados acionários na sessão anterior, à medida em que as preocupações em torno de uma possível recessão nos Estados Unidos diminuíram um pouco com dados positivos no setor de serviços americano divulgados ontem.
+
+
+Ainda assim, a queda dos preços de commodities, como petróleo e minério de ferro, afetam companhias relevantes para a bolsa brasileira, como Vale ON, que cai 0,95%, e Petrobras PN, que recua 0,34%.
+
+
+Por volta das 10h35, o Ibovespa subia 0,17%, aos 125.489 pontos, com máxima intradiária de 125.816 pontos e mínima de 125.270 pontos. O volume financeiro projetado para o índice no dia era de R$ 31,94 bilhões. No exterior, o S&P 500 subia 0,36% e o Stoxx 600 cedia 0,48%.   
+
+
+Os balanços trimestrais de empresas listadas permanecem no radar dos investidores. Ontem, os papéis do  seguem em alta de 2,35%. Com resultados considerados “decepcionantes” pelo Citi, a Vamos ON perde 6,02%.
+
+
+Após o fechamento, serão divulgados os resultados de Itaú Unibanco, Grupo Pão de Açúcar, Prio, RD Saúde e Grupo Mateus. 
+]]></Texto>
+  <idioma><![CDATA[Português]]></idioma>
+  <DataEnvio>06/08/2024</DataEnvio>
+</Noticia>
+
+<?xml version="1.0" encoding="utf-8"?>
+<Noticia codigo="2e21b65c-2d3c-46a4-bd26-93238ba0bbb1">
+  <Categoria><![CDATA[Política]]></Categoria>
+  <Origem>18</Origem>
+  <Data>06/08/2024</Data>
+  <Link>https://valor.globo.com/politica/noticia/2024/08/06/lula-chama-de-devaneio-ideia-de-colonizar-marte-ao-inaugurar-centro-espacial-no-chile.ghtml</Link>
+  <Procedencia>Fabio Murakawa</Procedencia>
+  <Manchete><![CDATA[Lula chama de devaneio ideia de colonizar Marte ao inaugurar centro espacial no Chile]]></Manchete>
+  <Texto><![CDATA[O presidente Luiz Inácio Lula da Silva voltou a mandar indireta para o bilionário Elon Musk ao discursar no lançamento da pedra fundamental do Centro Espacial Nacional (CEN) no Chile.
+
+Sem citar nomes, Lula chamou de “devaneios” os planos de colonizar Marte, o que o empresário diz pretender fazer em cerca de três décadas.
+
+“Os devaneios de bilionários que preferem colonizar Marte a cuidar da Terra não substituem a ação e a orientação do Estado”, disse Lula. “Nos últimos anos, o setor espacial brasileiro sofreu com a negligência governamental. Agora, retomamos o investimento por meio de encomendas tecnológicas no valor de R$ 300 milhões. Vamos fortalecer o setor espacial e gerar os empregos e a renda necessária.”
+
+Elon Musk é dono da empresa de foguetes Space X, da rede social X (ex-Twitter) e também da Tesla, fabricante de veículos elétricos.
+
+No campo político, Musk é apoiador do ex-presidente dos EUA, Donald Trump, e manteve relações próximas com o governo Jair Bolsonaro.
+
+No Brasil, o bilionário já se envolveu em polêmicas com o ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), a quem acuasou de trair “a Constituição e o povo do Brasil” após ameaçar desobedecer ordens judiciais proferidas pelo magistrado.
+
+Na semana passada, em outra clara referência a Musk, Lula chamou de “babaca” quem está preocupado em colonizar o espaço e não em cuidar da Terra.
+
+“Tem gente que, em vez de ajudar, está fazendo foguete para procurar um lugar para morar. Não, babaca, é aqui na Terra”, disse o presidente durante evento no Ceará.
+
+Em abril, Lula aproveitou o lançamento no Palácio do Planalto de um programa para reduzir o desmatamento da Amazônia para fazer crítica semelhante. À época, ele recomendou recomendou que bilionários usassem suas fortunas para preservar as florestas e “melhorar a vida das pessoas”.
+
+“Tem bilionário tentando fazer foguete, viagem, não tem? Ele vai ter que aprender a viver aqui e vai ter que usar muito do dinheiro que ele tem para ajudar a preservar isso aqui e melhorar a vida das  pessoas”, afirmou Lula.
+]]></Texto>
+  <idioma><![CDATA[Português]]></idioma>
+  <DataEnvio>06/08/2024</DataEnvio>
+</Noticia>
+
+<?xml version="1.0" encoding="utf-8"?>
+<Noticia codigo="31785a5f-5762-4d70-8447-7a5f8799cc8a">
+  <Categoria><![CDATA[Finanças]]></Categoria>
+  <Origem>28</Origem>
+  <Data>07/08/2024</Data>
+  <Link>https://valor.globo.com/financas/noticia/2024/08/07/juros-futuros-se-ajustam-em-queda-com-recuo-do-dolar-e-melhora-no-sentimento-global.ghtml</Link>
+  <Procedencia>Gabriel Roca</Procedencia>
+  <Manchete><![CDATA[Juros futuros se ajustam em queda com recuo do dólar e melhora no sentimento global]]></Manchete>
+  <Texto><![CDATA[Os juros futuros iniciam o pregão desta quarta-feira em trajetória de baixa, na esteira da continuidade da recuperação do real. Após a alta expressiva observada no mercado de taxas ontem, quando os sinais mais duros revelados na ata do Copom pressionaram a parcela curta da curva, hoje o novo recuo do dólar contribui para uma retirada de prêmios de risco na curva.
+
+
+A melhora no sentimento de risco global e o recuo do iene frente ao dólar acabam abrindo espaço para uma recuperação das moedas de "carrego" elevado, como é o caso do real brasileiro e do peso mexicano. Neste contexto, uma menor pressão cambial também pode, na visão dos agentes, evitar que o Banco Central tenha que retomar o aperto monetário no Brasil.
+
+
+Perto das 9h10, a taxa do contrato de Depósito Interfinanceiro (DI) para janeiro de 2025 passava de 10,70% do ajuste anterior para 10,68%; a do DI para janeiro de 2026 recuava de 11,555% para 11,50%; a do DI para janeiro de 2027 caía de 11,695% para 11,64%; e a do DI para janeiro de 2029 cedia de 11,835% para 11,77%. Nos EUA, a taxa da T-note de 10 anos subia de 3,897% para 3,937%.
+
+
+No mesmo horário, o dólar comercial caía 0,67%, negociado a R$ 5,6195 no segmento à vista. Ontem, a moeda teve queda de 1,47%.
+]]></Texto>
+  <idioma><![CDATA[Português]]></idioma>
+  <DataEnvio>07/08/2024</DataEnvio>
+</Noticia>
+
+<?xml version="1.0" encoding="utf-8"?>
+<Noticia codigo="5948f06f-5fd8-476e-8d7d-b7bf1af16fa0">
+  <Categoria><![CDATA[Finanças]]></Categoria>
+  <Origem>28</Origem>
+  <Data>06/08/2024</Data>
+  <Link>https://valor.globo.com/financas/noticia/2024/08/06/bolsas-de-ny-tem-dia-de-recuperacao-apos-sell-off-da-vespera.ghtml</Link>
+  <Procedencia>Igor Sodré</Procedencia>
+  <Manchete><![CDATA[Bolsas de NY têm dia de recuperação após 'sell-off' da véspera]]></Manchete>
+  <Texto><![CDATA[As principais bolsas de Nova York fecharam em alta firme, chegando a registrar ganhos de mais de 2% ao longo da sessão, em um dia de recuperação após o forte sell-off que tomou conta dos mercados globais no início da semana. O movimento anterior e que foi contido hoje foi despertado pelos temores de que os Estados Unidos possam estar a caminho de uma recessão, após, na sexta-feira, dados fracos de emprego no país terem preocupado os investidores. 
+
+
+Em Wall Street, o índice Dow Jones subiu 0,76%, a 38.997,66 pontos; o S&P 500 avançou 1,04%, a 5.240,03 pontos; e o Nasdaq teve alta de 1,03%, a 16.366,86 pontos. 
+
+
+O setor de tecnologia foi destaque na recuperação. Assim, papéis de big techs, que foram mais atingidos por perdas nos últimos dias, avançaram e impulsionaram os índices. A Nvidia avançou 3,78%, enquanto a Meta Platforms subiu 3,86% e a Microsoft teve alta de 1,13%.
+]]></Texto>
+  <idioma><![CDATA[Português]]></idioma>
+  <DataEnvio>06/08/2024</DataEnvio>
+</Noticia>
+
+<?xml version="1.0" encoding="utf-8"?>
+<Noticia codigo="66061c43-3cf9-4a92-a72c-b55c2bf23324">
+  <Categoria><![CDATA[Finanças]]></Categoria>
+  <Origem>28</Origem>
+  <Data>07/08/2024</Data>
+  <Link>https://valor.globo.com/financas/noticia/2024/08/07/bolsas-de-ny-firmam-queda-aps-leilo-fraco-de-treasuries.ghtml</Link>
+  <Procedencia>Igor Sodré</Procedencia>
+  <Manchete><![CDATA[Bolsas de NY firmam queda após leilão fraco de Treasuries]]></Manchete>
+  <Texto><![CDATA[As principais bolsas de Nova York firmaram a tendência de queda na tarde desta quarta-feira, após um leilão de Treasuries de 10 anos ter obtido demanda baixa, impulsionando os rendimentos dos títulos.
+
+
+Por volta de 15h40 (de Brasília), o índice Dow Jones tinha queda de 0,42%, a 38.825,74 pontos; o S&P 500 caía 0,41%, a 5.218,46 pontos; e o Nasdaq recuava 0,66%, a 16.261,42 pontos. 
+
+
+Ações de tecnologia que mostraram ganhos expressivos no início do dia passaram para o campo negativo. A Nvidia recua 4,03%, enquanto a Meta Platforms tem queda de 0,67% e a Amazon cai 0,04%.
+
+
+Realizado no início da tarde, o leilão de US$ 42 bilhões em T-notes de dez anos registrou demanda bem mais fraca que a média e saiu com taxa máxima de 3,960%.
+]]></Texto>
+  <idioma><![CDATA[Português]]></idioma>
+  <DataEnvio>07/08/2024</DataEnvio>
+</Noticia>
+
+<?xml version="1.0" encoding="utf-8"?>
+<Noticia codigo="85931aef-92f7-4e24-b9bf-4a0949f041d4">
+  <Categoria><![CDATA[Finanças]]></Categoria>
+  <Origem>28</Origem>
+  <Data>06/08/2024</Data>
+  <Link>https://valor.globo.com/financas/noticia/2024/08/06/bolsas-de-ny-ensaiam-recuperacao-e-avancam.ghtml</Link>
+  <Procedencia>Igor Sodré, Com Dow Jones Newswires</Procedencia>
+  <Manchete><![CDATA[Bolsas de NY ensaiam recuperação e avançam]]></Manchete>
+  <Texto><![CDATA[As principais bolsas de Nova York operam em alta nesta terça-feira, ensaiando uma recuperação, após as fortes perdas das últimas sessões por conta dos temores de que os Estados Unidos possam entrar em recessão motivados pelos dados fracos da economia americana divulgados semana passada.
+
+
+Por volta de 11h00 (de Brasília), o índice Dow Jones tinha alta de 0,75%, a 39.015,65 pontos; o S&P 500 subia 0,83%, a 5.228,74 pontos; e o Nasdaq avançava 0,48%, a 16.278,69 pontos. 
+
+
+Entre as ações, os balanços seguem no foco. A Caterpillar e a Uber sobem 3,65% e 7,23%, respectivamente, após reportarem resultados acima do esperado. Amgen, Rivian Automotive, Airbnb, Marathon Petroleum e Fortinet também programaram a divulgação de seus resultados hoje.
+
+
+"O mercado está nos dizendo que, seja o que for que o esteja incomodando no momento, não há uma solução simples para acabar com o estresse e a preocupação", destaca Mike Thompson, co-gerente de portfólio da Little Harbor Advisors. 
+
+
+Os agentes já esperavam que o Federal Reserve (Fed) fosse reduzir as taxas de juros na reunião de setembro, mas os dados fracos da semana passada provocaram um debate sobre a possibilidade de o banco tomar as raras medidas de fazer um corte maior do que o habitual de 0,5 ponto percentual ou até mesmo reduzir os custos dos empréstimos entre as reuniões.  Alguns comentários tranquilizadores de autoridades do Fed, como o da presidente do Fed de São Francisco, Mary Daly, ajudaram a acalmar algumas das preocupações dos mercados, disseram os economistas do banco ING. 
+
+
+Na agenda de indicadores, mais cedo, foi divulgado que o déficit comercial de bens e serviços nos EUA em junho foi de US$ 73,1 bilhões, ficando menor que os US$ 75,0 bilhões de déficit revisado de maio, e maior que o projetado por economistas consultados pelo “The Wall Street Journal”, de déficit de US$ 72,5 bilhões. Agora, os investidores irão ficar de olho no leilão de T-notes de 3 anos, que acontece às 14h.
+]]></Texto>
+  <idioma><![CDATA[Português]]></idioma>
+  <DataEnvio>06/08/2024</DataEnvio>
+</Noticia>
+
+<?xml version="1.0" encoding="utf-8"?>
+<Noticia codigo="9ad2c6c3-7c2c-45d4-8b19-da699c9eb335">
+  <Categoria><![CDATA[Finanças]]></Categoria>
+  <Origem>28</Origem>
+  <Data>07/08/2024</Data>
+  <Link>https://valor.globo.com/financas/noticia/2024/08/07/sinalizacao-do-boj-impulsiona-futuros-de-acoes-em-wall-street.ghtml</Link>
+  <Procedencia>Roberta Costa</Procedencia>
+  <Manchete><![CDATA[Sinalização do BoJ impulsiona futuros de ações em Wall Street]]></Manchete>
+  <Texto><![CDATA[Com uma agenda vazia nos EUA, os futuros ações tem alta consistente em Nova York nesta quarta-feira, impulsionados por comentários do vice-presidente do Banco do Japão (BoJ), Shinichi Uchida. 
+
+
+Uchida, disse durante a sessão asiática, que o BoJ não aumentará mais as taxas de juros enquanto os mercados estiverem instáveis. Isso fez o iene cair em relação ao dólar e impulsionou os mercados de ações em afora. O fortalecimento da moeda japonesa após o aumento da taxa de juros no país asiático na semana passada ajudou a desencadear a recente liquidação global em todas as classes de ativos de risco.
+
+
+O mercado de ações se recuperou na terça-feira após vários dias de perdas acentuadas, especialmente na segunda-feira, que levou a bolsa de Tóquio ao pior nível desde o crash de 1987. Os principais índices reduziram os ganhos na hora final, atingindo a resistência perto das mínimas de sexta-feira. O Dow Jones subiu 0,8% ontem, atingindo a resistência na linha de 50 dias. O índice S&P 500 teve alta de 1%. O Nasdaq ganhou 1% após saltar de sua linha de 200 dias na segunda-feira. O Russell 2000, de empresas de pequena capitalização, fechou com ganho de 1,2%, aproximando-se da linha de 50 dias após encontrar suporte em seus 200 dias na segunda-feira.
+
+
+Por volta de 8h10, assim operavam os futuros em NY: Dow Jones +0,84%, S&P 500 +1,23% e Nasdaq +1,51%.
+
+
+Na Europa, o índice Stoxx 600 subia 1,53%, de pois do índice de referência de Tóquio ter encerrado a sessão em alta de 1,19%, Coreia do Sul em +1,83%, Hong Kong em +1,38% e Xangai em +0,09%. 
+
+
+O índice do dólar DXY operava em alta de 0,24%, aos 103,218 pontos. Já o petróleo WTI avançava 1,63%, a US$ 74,29 o barril, enquanto o Brent ganhava 1,56%, a US$ 77,68. 
+
+
+Na renda fixa, o rendimento do Treasury de 10 anos subia para 3,89% à medida que as condições ]]></Texto>
+  <idioma><![CDATA[Português]]></idioma>
+  <DataEnvio>07/08/2024</DataEnvio>
+</Noticia>
+
+<?xml version="1.0" encoding="utf-8"?>
+<Noticia codigo="a4930391-601d-458b-af1a-3e0af3a7cc59">
+  <Categoria><![CDATA[Finanças]]></Categoria>
+  <Origem>28</Origem>
+  <Data>06/08/2024</Data>
+  <Link>https://valor.globo.com/financas/noticia/2024/08/06/banestes-firma-parceria-comercial-com-a-getnet.ghtml</Link>
+  <Procedencia>Álvaro Campos</Procedencia>
+  <Manchete><![CDATA[Banestes firma parceria comercial com a Getnet ]]></Manchete>
+  <Texto><![CDATA[O Banco do Estado do Espírito Santo Banestes) anunciou uma parceria com a Getnet, credenciadora do grupo Santander. A partir de agora, os mais de 80 mil clientes pessoa jurídica (PJ) do Banestes passarão a contar com os serviços de intermediação de pagamentos por meios das soluções oferecidas pela Getnet.
+
+
+O diretor de Meios de Pagamentos do Banestes, Marcos Vinicius Nunes Montes, destaca que a parceria reforça o compromisso do banco em oferecer soluções financeiras cada vez mais completas. “A Getnet vai permitir a ampliação, de forma significativa, da nossa oferta de adquirência, proporcionando aos lojistas e empreendedores capixabas o acesso a um portfólio abrangente de soluções de pagamento, com condições competitivas e atendimento personalizado”.
+
+
+Dentre as soluções, os clientes do Banestes terão a oferta de três tipos diferentes de maquininhas de cartões, que contemplam características distintas para pequenas, médias e grandes empresas. “Essa parceria é uma grande oportunidade para nós. A expectativa é conquistar novos clientes e oferecer nossos serviços de valor agregado”, explica em nota Ricardo Yuanaga, vice-presidente de Vendas da Getnet Brasil.]]></Texto>
+  <idioma><![CDATA[Português]]></idioma>
+  <DataEnvio>06/08/2024</DataEnvio>
+</Noticia>
+
+<?xml version="1.0" encoding="utf-8"?>
+<Noticia codigo="b51b53b8-34cb-4a83-b928-e2b8f5277377">
+  <Categoria><![CDATA[Finanças]]></Categoria>
+  <Origem>28</Origem>
+  <Data>06/08/2024</Data>
+  <Link>https://valor.globo.com/financas/noticia/2024/08/06/dolar-cai-mais-de-1percent-e-real-tem-melhor-desempenho-do-dia.ghtml</Link>
+  <Procedencia>Gabriel Caldeira</Procedencia>
+  <Manchete><![CDATA[Dólar cai mais de 1% e real tem melhor desempenho do dia]]></Manchete>
+  <Texto><![CDATA[O dólar comercial abriu a sessão desta terça-feira em queda firme, em movimento que coloca o real na liderança do ranking de 33 moedas mais líquidas acompanhadas pelo Valor. A moeda brasileira é beneficiada pela reversão do movimento de venda de ativos de risco que a afetou na sessão passada, ao passo em que os investidores também reagem à ata da última reunião do Comitê de Política Monetária (Copom) do Banco Central, que apresentou um tom mais duro do que o comunicado, considerado brando por parte dos agentes locais.
+
+
+Por volta de 09h15, o dólar à vista exibia queda de 1,27%, a R$ 5,6680, após tocar a máxima intradiária de R$ 5,7125 e a mínima de R$ 5,6675. Já o euro comercial tinha forte recuo de 1,66%, a R$ 6,1880.
+
+
+No exterior, o dólar se recuperava contra seus principais pares, e o índice DXY subia 0,44%, a 103,14 pontos no horário citado. Contra pares do real, a moeda exibia movimentos modestos ao subir 0,13% ante o peso mexicano; recuar 0,26% contra o rand sul-africano; e ceder 0,29% no confronto com o peso chileno.
+]]></Texto>
+  <idioma><![CDATA[Português]]></idioma>
+  <DataEnvio>06/08/2024</DataEnvio>
+</Noticia>
+
+<?xml version="1.0" encoding="utf-8"?>
+<Noticia codigo="bfbd2175-164e-4f02-b136-0685c1c53dc1">
+  <Categoria><![CDATA[Finanças]]></Categoria>
+  <Origem>28</Origem>
+  <Data>06/08/2024</Data>
+  <Link>https://valor.globo.com/financas/noticia/2024/08/06/farmacutica-ach-quer-captar-r-200-milhes-com-debntures.ghtml</Link>
+  <Procedencia>Rita Azevedo</Procedencia>
+  <Manchete><![CDATA[Farmacêutica Aché quer captar R$ 200 milhões com debêntures]]></Manchete>
+  <Texto><![CDATA[A farmacêutica Aché iniciou uma oferta de debêntures para captar R$ 200 milhões. A operação dever ser concluída até o dia 15 de agosto.
+
+A empresa deve usar os recursos na gestão ordinária dos negócios, conforme informações enviadas a Comissão de Valores Mobiliários (CVM).
+
+Os papéis terão prazo de sete anos, com amortização após seis anos. A Aché pretende pagar, no máximo, CDI mais 0,9% ao ano. 
+
+
+Itaú BBA, UBS BB e Santander coordenam a operação.]]></Texto>
+  <idioma><![CDATA[Português]]></idioma>
+  <DataEnvio>06/08/2024</DataEnvio>
+</Noticia>
+
+<?xml version="1.0" encoding="utf-8"?>
+<Noticia codigo="c1667639-f956-4794-b03f-03f6042f31e6">
+  <Categoria><![CDATA[Finanças]]></Categoria>
+  <Origem>28</Origem>
+  <Data>06/08/2024</Data>
+  <Link>https://valor.globo.com/financas/noticia/2024/08/06/juros-futuros-operam-em-alta-firme-com-ata-do-copom-e-exterior.ghtml</Link>
+  <Procedencia>Gabriel Roca</Procedencia>
+  <Manchete><![CDATA[Juros futuros operam em alta firme com ata do Copom e exterior]]></Manchete>
+  <Texto><![CDATA[Os juros futuros operam em alta no início dos negócios desta terça-feira, à medida que os agentes financeiros avaliam as mensagens emitidas pelo Comitê de Política Monetária (Copom) na ata da última reunião do Banco Central. Os sinais de que o colegiado se mostra mais preocupado com a trajetória da inflação e que não hesitará em retomar o processo de aperto monetário, caso seja necessário, dão força às taxas curtas, que também são pressionadas pela elevação dos juros dos Treasuries.
+
+
+Perto das 9h25, a taxa do contrato de Depósito Interfinanceiro (DI) para janeiro de 2025 subia de 10,585% no ajuste anterior para 10,665%; a do DI para janeiro de 2026 avançava de 11,23% para 11,39%; a do DI para janeiro de 2027 saltava de 11,44% para 11,55%; e a do DI para janeiro de 2029 oscilava de 11,71% para 11,725%. Nos EUA, a taxa da T-note de 10 anos subia de 3,798% para 3,842%.
+]]></Texto>
+  <idioma><![CDATA[Português]]></idioma>
+  <DataEnvio>06/08/2024</DataEnvio>
+</Noticia>
+
+<?xml version="1.0" encoding="utf-8"?>
+<Noticia codigo="c1d0c39f-de76-4442-ad3f-3d68652d0778">
+  <Categoria><![CDATA[Finanças]]></Categoria>
+  <Origem>28</Origem>
+  <Data>07/08/2024</Data>
+  <Link>https://valor.globo.com/financas/noticia/2024/08/07/ibovespa-opera-em-alta-acompanhando-embalo-de-bolsas-globais.ghtml</Link>
+  <Procedencia>Maria Fernanda Salinet</Procedencia>
+  <Manchete><![CDATA[Ibovespa opera em alta acompanhando embalo de bolsas globais]]></Manchete>
+  <Texto><![CDATA[O Ibovespa opera em alta nesta quarta-feira, acompanhando o bom humor das bolsas globais, em sequência de recuperação após o pânico nos mercados no início da semana.  
+
+
+Por volta das 10h25, o Ibovespa subia 0,79%, aos 127.259 pontos, com máxima intradiária de 127.259 pontos e mínima de 126.268 pontos. O volume financeiro projetado para o índice no dia era de R$ 16,91 bilhões. No exterior, o S&P 500 ganhava 1,10% e o Stoxx 600 avançava 1,53%. 
+
+
+Diante da melhora no sentimento dos investidores - após o banco central japonês sinalizar que não subirá os juros em meio às turbulências no mercado - e do recuo do iene frente ao dólar, ações sensíveis aos juros futuros lideram as altas no pregão, como CVC ON e Magazine Luiza ON, que sobem 3,51% e 3,36%, respectivamente. 
+
+
+Em meio à alta do petróleo no mercado internacional, papéis preferenciais de Petrobras avançam 0,91% e ações ordinárias de Prio ganham 4,53%, após companhia divulgar resultados trimestrais que mostram lucro de US$ 272,8 milhões, o que representa um aumento anual de 48%. 
+]]></Texto>
+  <idioma><![CDATA[Português]]></idioma>
+  <DataEnvio>07/08/2024</DataEnvio>
+</Noticia>
+
+<?xml version="1.0" encoding="utf-8"?>
+<Noticia codigo="c731a323-0e13-41d8-babd-8da7a6fce001">
+  <Categoria><![CDATA[Política]]></Categoria>
+  <Origem>18</Origem>
+  <Data>07/08/2024</Data>
+  <Link>https://valor.globo.com/politica/noticia/2024/08/07/alcolumbre-pauta-pec-que-anistia-partidos-que-descumpriram-regras-eleitorais.ghtml</Link>
+  <Procedencia>Julia Lindner e Caetano Tonet</Procedencia>
+  <Manchete><![CDATA[Alcolumbre pauta PEC que anistia partidos que descumpriram regras eleitorais]]></Manchete>
+  <Texto><![CDATA[O presidente da Comissão de Constituição e Justiça (CCJ) do Senado, Davi Alcolumbre (União-AP), anunciou, nesta quarta-feira (7), que vai pautar na próxima semana a proposta de emenda à Constituição (PEC) que abre caminhos para a anistia de partidos de multas por descumprimento de repasses mínimos para candidaturas negras.
+
+
+Alcolumbre vai apresentar um requerimento de urgência para que a PEC seja apreciada no plenário da Casa no mesmo dia. O texto já passou pela Câmara antes do recesso parlamentar informal e agora depende do aval do Senado.
+
+
+“Tem uma demanda que foi solicitada pelos partidos políticos, que é uma questão relativa à questão de cotas em relação a multas e outros temas relacionados aos partidos políticos do Brasil. É uma demanda de todos os partidos dos políticos, e eu fiz um compromisso, antes do recesso parlamentar, porque se cria uma polêmica muito fácil: está muito fácil ofender a política, está muito fácil agredir a política, está muito fácil agredir os partidos políticos, e nós vivemos numa democracia”, disse Alcolumbre, na sessão da CCJ desta quarta.
+
+
+O senador afirmou que fez um compromisso com os parlamentares antes do recesso de que não iria incluir o item extrapauta naquela ocasião até haver entendimento entre os líderes da Casa.
+
+
+Agora, com a retomada dos trabalhos, ele disse que a proposta será incluída na pauta da próxima quarta, 14. Alcolumbre acrescentou que vai apresentar um requerimento de urgência para que o tema seja deliberado em plenário no mesmo dia, em dois turnos.
+
+
+“Eu vou apresentar pessoalmente um requerimento de urgência, para que a gente possa, na própria quarta-feira, levar essa matéria para o Plenário, para resolver, porque esse impasse vai se dar no processo eleitoral para a candidatura de 5.570 prefeitos, de centenas de milhares de vereadores. Essa matéria é muito importante para a gente regularizar a situação dos partidos políticos do Brasil e, ao final do dia, para regularizar a situação da votação e da eleição municipal no Brasil”, defendeu.
+
+
+“Eu vou solicitar ao presidente Rodrigo Pacheco que faça a votação, no mesmo dia, em dois turnos, desta proposta no Plenário do Senado Federal”, acrescentou Alcolumbre.
+
+
+Além do perdão das dívidas, a matéria também cria um programa de refinanciamento de dívidas das legendas e dá aval para a utilização de recursos do fundo partidário para pagar multas eleitorais. Prevê, ainda, a extensão do perdão das multas aplicadas contra as siglas em processos de prestação de contas eleitorais.
+
+
+Líder do MDB no Senado, Eduardo Braga (MDB-AM) fez um aparte ao anúncio de Alcolumbre dizendo que o prazo de uma semana servirá para se fazer “uma profunda reflexão sobre a matéria”, que enfrenta resistência entre diversos senadores.
+
+
+Além disso, a PEC inclui na Constituição a obrigatoriedade de os partidos repassarem 30% dos recursos do fundo eleitoral para financiar campanhas de candidatos negros. Essa regra passará a valer já para este ano.
+
+
+De acordo com a proposta, até que o texto seja promulgado, repasses serão validados ainda que descumpram as regras previstas na proposta. Com isso, partidos não serão punidos se descumprirem os repasses a candidaturas negras.]]></Texto>
+  <idioma><![CDATA[Português]]></idioma>
+  <DataEnvio>07/08/2024</DataEnvio>
+</Noticia>
+
+<?xml version="1.0" encoding="utf-8"?>
+<Noticia codigo="cd35d29f-a5e5-4bbe-bda7-7dc6a35462fc">
+  <Categoria><![CDATA[Finanças]]></Categoria>
+  <Origem>28</Origem>
+  <Data>07/08/2024</Data>
+  <Link>https://valor.globo.com/financas/noticia/2024/08/07/bc-fluxo-cambial-fica-positivo-em-us-1341-bilhao-na-semana-ate-2-de-agosto.ghtml</Link>
+  <Procedencia>Gabriel Caldeira</Procedencia>
+  <Manchete><![CDATA[BC: Fluxo cambial fica positivo em US$ 1,341 bilhão na semana até 2 de agosto]]></Manchete>
+  <Texto><![CDATA[O fluxo cambial da semana entre 29 de julho a 2 de agosto ficou positivo em US$ 1,341 bilhão. A conta comercial foi responsável pela entrada líquida de US$ 3,424 bilhões no período, enquanto a conta financeira anotou saída de US$ 2,083 bilhões, conforme dados do Banco Central (BC) divulgados nesta quarta-feira.
+
+
+Em julho, o fluxo cambial acumulou entrada líquida de US$ 1,743 bilhão. A conta comercial foi responsável pela entrada de US$ 5,046 bilhões, enquanto a financeira anotou saída de US$ 3,302 bilhões no mês passado.
+
+
+No recorte acumulado de 2024, o fluxo cambial anota entrada líquida de US$ 13,716 bilhões, enquanto o fluxo financeiro registra saída de US$ 43,672 bilhões e o fluxo comercial tem entrada de US$ 57,388 bilhões.]]></Texto>
+  <idioma><![CDATA[Português]]></idioma>
+  <DataEnvio>07/08/2024</DataEnvio>
+</Noticia>
+
+<?xml version="1.0" encoding="utf-8"?>
+<Noticia codigo="dde8f8c1-6485-432f-9837-e7098c19610e">
+  <Categoria><![CDATA[Finanças]]></Categoria>
+  <Origem>28</Origem>
+  <Data>07/08/2024</Data>
+  <Link>https://valor.globo.com/financas/noticia/2024/08/07/dolar-recua-com-alivio-no-exterior-apos-sinalizacao-do-bc-do-japao.ghtml</Link>
+  <Procedencia>Gabriel Caldeira</Procedencia>
+  <Manchete><![CDATA[Dólar recua com alívio no exterior após sinalização do BC do Japão]]></Manchete>
+  <Texto><![CDATA[ dólar encerrou a sessão desta quarta-feira em queda, apoiado pelo movimento global de retomada de risco após o vice-presidente do Banco do Japão (BoJ), Shinichi Uchida, afirmar que a autoridade monetária não subirá juros em meio à “instabilidade” dos mercados. Ainda que parte do bom humor tenha se dissipado ao longo da tarde, o real e outras moedas de países emergentes ainda encontraram fôlego para se valorizar hoje.
+
+
+O dólar à vista fechou em queda de 0,55%, cotado a R$ 5,6249, após tocar a máxima intradiária de R$ 5,6405 e a mínima de R$ 5,5977. O euro comercial recuou 0,63%, a R$ 6,1434.
+
+
+No exterior, por volta de 17h10, o índice DXY do dólar subia 0,22%, a 103,196 pontos, puxado pela forte alta da moeda americana sobre o iene, de cerca de 1,5%. O dólar, em contrapartida, recuava ante pares do real: a divisa anotava baixa de 1,64% contra o peso mexicano; tinha leve baixa de 0,08% ante o peso chileno; e recuava 0,52% no confronto com o rand sul-africano.
+]]></Texto>
+  <idioma><![CDATA[Português]]></idioma>
+  <DataEnvio>07/08/2024</DataEnvio>
+</Noticia>
+
+<?xml version="1.0" encoding="utf-8"?>
+<Noticia codigo="e87eb152-02b9-4670-b0fb-3707fd2e3206">
+  <Categoria><![CDATA[Finanças]]></Categoria>
+  <Origem>28</Origem>
+  <Data>07/08/2024</Data>
+  <Link>https://valor.globo.com/financas/noticia/2024/08/07/poupanca-registra-saida-liquida-de-r-908622-milhoes-em-julho.ghtml</Link>
+  <Procedencia>Gabriel Shinohara</Procedencia>
+  <Manchete><![CDATA[Poupança registra saída líquida de R$ 908,622 milhões em julho]]></Manchete>
+  <Texto><![CDATA[Os saques em caderneta de poupança superaram os depósitos em R$ 908,622 milhões em julho, segundo divulgado nesta quarta-feira pelo Banco Central (BC). Em junho, a captação líquida - diferença entre entradas e saídas - foi positiva em R$ 12,756 bilhões.
+
+
+No sétimo mês de 2024, os brasileiros depositaram R$ 370,314 bilhões e sacaram R$ 371,223 bilhões da poupança. O rendimento no período foi de R$ 5,405 bilhões e o saldo da caderneta ficou em R$ 1,016 trilhão. Em julho do ano passado, a modalidade teve captação líquida negativa em R$ 3,581 bilhões.
+
+
+O Sistema Brasileiro de Poupança e Empréstimo (SBPE) registrou saída líquida em julho de R$ 2,859 bilhões enquanto a poupança rural teve entrada de R$ 1,950 bilhão.
+
+
+No acumulado de 2024, a poupança registrou saída líquida de R$ 3,701 bilhões. Neste ano, houve saída líquida de R$ 20,149 bilhões em janeiro, R$ 3,824 bilhões em fevereiro, entrada líquida de R$ 1,339 bilhão em março e saída de R$ 1,142 em abril.  Em maio houve entrada de R$ 8,227 trilhões e, em junho, outro resultado positivo de R$ 12,756 bilhões.
+
+
+Em 2023 como um todo, a modalidade teve resgate de R$ 87,819 bilhões. Em 2022, a saída foi de R$ 103,237 bilhões.
+]]></Texto>
+  <idioma><![CDATA[Português]]></idioma>
+  <DataEnvio>07/08/2024</DataEnvio>
+</Noticia>
+
