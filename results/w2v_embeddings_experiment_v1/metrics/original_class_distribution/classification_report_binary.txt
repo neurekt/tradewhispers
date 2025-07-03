@@ -1,9 +1,0 @@
-Binary Classification Report:
-              precision    recall  f1-score   support
-
-          -1       0.74      0.91      0.82       123
-           1       0.45      0.19      0.26        48
-
-    accuracy                           0.71       171
-   macro avg       0.60      0.55      0.54       171
-weighted avg       0.66      0.71      0.66       171
