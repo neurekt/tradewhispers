@@ -1,6 +1,8 @@
 # Virtual environment
-venv/
-.env
+.venv_temp/
+
+# Ignore system files
+*.DS_Store
 
 # VSCode settings
 .vscode/
@@ -8,11 +10,6 @@ venv/
 # Bytecode
 __pycache__/
 *.py[cod]
-
-# Data (keep only processed)
-data/raw/
-data/interim/
-data/unused/
 
 # Jupyter
 *.ipynb_checkpoints
