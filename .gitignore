@@ -1,10 +1,6 @@
 # Virtual environment
 .venv_temp
 
-#archived
-notebooks/archive
-results/archive
-
 # Ignore system files
 *.DS_Store
 
