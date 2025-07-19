@@ -1,6 +1,3 @@
-[Literature Review](https://tinted-dragonfly-851.notion.site/Lit-Review-21746500b880802e9501d9cf5db7a2be) |
-[Experiments](https://tinted-dragonfly-851.notion.site/Experiments-22646500b880800e95b8c06fd04a868b)
-
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
