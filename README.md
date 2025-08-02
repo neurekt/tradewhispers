@@ -22,14 +22,7 @@
 ## About The Project
 
 [TradeWhispers](https://github.com/neurekt/tradewhispers) is a research project that investigates how news pertaining to emerging forex markets can be used to generate directional trading signals.
-
-This repository currently contains:
-- LATAM datasets
-- Archived experiments
-- USD/BRL exchange rate data
-- coming soon...
-
-All experiments and results are version-controlled and archived in this repository. For more detail, please remain patient.
+All experiments and results are version-controlled and archived in this repository.
 
 <!-- GETTING STARTED -->
 ## Getting Started
