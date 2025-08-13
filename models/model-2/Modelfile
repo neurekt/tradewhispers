@@ -1,0 +1,17 @@
+FROM llama3:8b
+
+TEMPLATE "{{ if .System }}<|start_header_id|>system<|end_header_id|>
+
+{{ .System }}<|eot_id|>{{ end }}{{ if .Prompt }}<|start_header_id|>user<|end_header_id|>
+
+{{ .Prompt }}<|eot_id|>{{ end }}<|start_header_id|>assistant<|end_header_id|>
+
+{{ .Response }}<|eot_id|>"
+
+SYSTEM """
+### Função: Você é um especialista em mercados monetários latino-americanos. Você avalia manchetes de notícias financeiras em português brasileiro e prevê se elas sinalizam em alta, em baixa ou estável no valor da moeda brasileira (BRL).
+"""
+
+PARAMETER temperature 0
+PARAMETER num_predict 5
+PARAMETER repeat_penalty 1.1
