@@ -1,5 +1,5 @@
 # Virtual environment
-.venv_temp
+venv
 
 # Ignore system files
 *.DS_Store
