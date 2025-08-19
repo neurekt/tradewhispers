@@ -1,4 +1,304 @@
 Timestamp,Headline,Direction
+2024-12-19 17:50:00,"Citi tem recomendação neutra para MRV, com preço-alvo de R$ 8",Stable
+2024-12-19 17:50:00,"Próximas vendas da Resia devem manter margens brutas pressionadas, diz o banco",Stable
+2024-12-20 09:03:00,"dolar cai 0,28%, a R$ 6,1063, e dolar futuro, -0,84%, a R$ 6,1115",Decrease
+2024-12-20 09:03:00,"Ibovespa futuro perde 0,34% (122.570)",Decrease
+2024-12-20 09:05:00,"Santander eleva projeção de PIB de 2024 de 3% para 3,5%; banco mantém projeção para 2025 em 1,8%",Decrease
+2024-12-20 09:05:00,"Selic no fim de 2025 deve ficar em 14,50% (de 12,75% anteriormente)",Decrease
+2024-12-20 09:05:00,"IPCA: Santander eleva projeção de inflação de 4,8% para 4,9% em 2024 e para 5,5% em 2025",Decrease
+2024-12-20 09:15:00,"Citi eleva preço-alvo de Iguatemi de R$ 29 para R$ 30, mantendo recomendação de compra",Increase
+2024-12-20 09:15:00,Sentimento do mercado sobre setor ficou ruim no último mês por conta da deterioração do cenário macroeconômico,Increase
+2024-12-20 09:24:00,EMPRESAS: Brava assina contrato de fornecimento de gás para Cerâmica Serra Azul,Decrease
+2024-12-20 09:25:00,Bradesco BBI corta recomendação de Ambipar de neutra para venda; preço-alvo foi de R$ 135 para R$ 120,Decrease
+2024-12-20 09:25:00,"Resultados recentes do 3TRI foram positivos, confirmando que esforços de reestruturação estão dando certo",Decrease
+2024-12-20 09:28:00,"MERCADOS: dolar e juros cedem com leilões, aprovação do pacote e exterior",Decrease
+2024-12-20 09:38:00,"Citi reitera recomendação neutra para MRV, com preço-alvo a R$ 8",Decrease
+2024-12-20 09:38:00,Plano de reformulação da subsidiária Resia avança com venda de terreno no Texas,Decrease
+2024-12-20 09:56:00,EMPRESAS: Petrobras paga hoje a segunda parcela de proventos relativos ao 2TRI,Increase
+2024-12-20 09:56:00,"O valor é de R$ 0,52660008 por ação ordinária e preferencial",Increase
+2024-12-20 09:56:00,"Para os detentores de ADRs), o pagamento ocorrerá a partir do dia 30/12/2024",Increase
+2024-12-20 10:02:00,Alexandre de Moraes concede liberdade condicional ao deputado Daniel Silveira,Increase
+2024-12-20 10:02:00,O ministro do STF atende a pedido da PGR em razão de o parlamentar já ter cumprido 2/3 de sua pena,Increase
+2024-12-20 10:10:00,"Ibovespa encerra os leilões em leve queda de 0,02%, aos 121.162,08 pontos",Increase
+2024-12-20 10:10:00,EMPRESAS: Grupo Mateus anuncia acordo para compra do Novo Atacarejo,Increase
+2024-12-20 10:12:00,Trump diz que paralisação do governo (shutdown) é problema para Biden resolver,Increase
+2024-12-20 10:12:00,"Se tiver que parar, que seja agora, e não no meu governo, disse ele",Increase
+2024-12-20 10:16:00,"Fed: Daly diz que está ""muito confortável"" com dois cortes de juros em 2025",Increase
+2024-12-20 10:24:00,"BC: Começou leilão de linha de até US$ 2 bi, previsto para terminar às 10h25",Decrease
+2024-12-20 10:27:00,EMPRESAS: Eletrobras opera em alta após anúncio de dividendos intercalares,Decrease
+2024-12-20 10:32:00,"EUA: PCE em novembro sobe 0,1%%, ante projeção de 0,2%; na comparação anual, 2,4%; consenso 2,5%",Increase
+2024-12-20 10:32:00,"Núcleo do PCE, 0,1%, ante consenso de 0,2%; na base anual, 2,8%, ante estimativa de 2,9%",Increase
+2024-12-20 10:32:00,"EUA: Gastos com consumo em outubro sobem 0,4%, ante consenso de 0,5%",Increase
+2024-12-20 10:32:00,"EUA: renda pessoal 0,3%, de 0,4% previstos",Increase
+2024-12-20 10:40:00,"Fed/Williams: Inflação não está na meta, mas notícias são encorajadoras, chegaremos lá",Stable
+2024-12-20 10:40:00,"Há incerteza sobre política fiscal nos EUA, somos dependentes dos dados",Stable
+2024-12-20 10:40:00,"Economia está em bom lugar, com crescimento de 2,5% no ano",Stable
+2024-12-20 10:43:00,"Goldman Sachs corta preço-alvo de Iguatemi (R$ 28 para R$ 26) e Multiplan (R$ 31 para R$ 29), com compra para as duas",Decrease
+2024-12-20 10:43:00,"Allos foi de R$ 28 para R$ 26, com recomendação neutra",Decrease
+2024-12-20 10:48:00,"Fed/Williams: Política segue restritiva, não estamos no nível neutro de juros",Increase
+2024-12-20 10:48:00,Cenário base é de corte de juros à frente,Increase
+2024-12-20 10:53:00,EMPRESAS: Negociações para fusão entre Cogna e Yduqs esfriam por divergências,Decrease
+2024-12-20 10:54:00,"Goldman Sachs reforça recomendação de compra para Eletrobras PNB, com preço-alvo a R$ 48 e US$ 8,30 para os ADRs",Stable
+2024-12-20 10:54:00,Perspectiva de que empresa venha a pagar dividendos a cada trimestre é um dos principais catalisadores das ações,Stable
+2024-12-20 10:55:00,EUA/PCE: Indicador de inflação preferido do Fed esfria para o ritmo mais lento desde maio,Increase
+2024-12-20 11:07:00,"EMPRESAS: Simpar aprova programa de recompra de até 35.718.616 ações da companhia, o que equivale a 15% do total em circulação",Decrease
+2024-12-20 11:07:00,"O programa terá duração de até 18 meses, com início hoje e término em 20/06/2026",Decrease
+2024-12-20 11:07:00,"Objetivo é a maximização de valor ao acionista; papéis adquiridos serão utilizados para manutenção em tesouraria, cancelamento ou plano de remuneração",Decrease
+2024-12-20 11:08:00,"Fed: Beth Hammack, que foi contra o último corte de juros, defende política modestamente restritiva até a evidência de que inflação caminha para a meta",Decrease
+2024-12-20 11:08:00,Ela diz que decisão foi apertada e avalia que inflação ficará acima dos 2% até meados de 2025,Decrease
+2024-12-20 11:08:00,Estagnação acima dos 2% arrisca desancorar expectativas; há trabalho a ser feito,Decrease
+2024-12-20 11:27:00,"BTG tem recomendação neutra para Usiminas, com preço-alvo a R$ 8",Increase
+2024-12-20 11:27:00,Empresa transmitiu perspectiva de redução de custos em 2025,Increase
+2024-12-20 11:31:00,"NY/Abertura: Dow -0,32% (42.204,79); S&P -0,50% (5.837,93) e Nasdaq -0,94% (19.189,80)",Decrease
+2024-12-20 11:35:00,BC cancela leilão de linha de até US$ 2 bilhões; não foi informada a razão do cancelamento,Increase
+2024-12-20 11:47:00,BC cancelou os dois leilões de linha de até US$ 2 bilhões por problema no sistema,Decrease
+2024-12-20 11:51:00,"EMPRESAS: Petroleiras operam mistas, apesar do recuo do petróleo",Decrease
+2024-12-20 11:56:00,"BTG mantém recomendação de compra para os ADRs da Petrobras, com preço-alvo a US$ 19",Increase
+2024-12-20 11:56:00,Diferença nos preços praticados pela companhia aumentou na comparação com os preços internacionais,Increase
+2024-12-20 12:03:00,MERCADOS: Ibovespa cede com fiscal e exterior cauteloso,Decrease
+2024-12-20 12:05:00,"Zona do euro: indice de confiança do consumidor cai a -14,5 em dezembro (consenso -14)",Decrease
+2024-12-20 12:08:00,"EUA/Univ. Michigan: indice de Sentimento do Consumidor final de dezembro sobe a 74, dentro do previsto",Increase
+2024-12-20 12:08:00,"Expectativa de inflação de 1 ano sobe a 2,8%, de 2,6%; de cinco anos cai a 3%, de 3,2%",Increase
+2024-12-20 12:19:00,Haddad: Temos de corrigir essa escorregada do dolar; BC tem de intervir sempre que preciso,Increase
+2024-12-20 12:19:00,"Não temos de mirar meta, mas buscar equilíbrio; não vou cometer equívoco de falar em meta para câmbio",Increase
+2024-12-20 12:19:00,"Fortalecimento do dolar foi em todo o mundo e no Brasil, maior",Increase
+2024-12-20 12:19:00,Houve problema de comunicação para o dolar subir mais que nos pares,Increase
+2024-12-20 12:23:00,Haddad: BC tem de se preocupar com meta e vai manter juros restritivos; BC não fica meta de câmbio,Increase
+2024-12-20 12:23:00,Governo já mudou a meta de inflação para contínua para BC ter mais instrumento,Increase
+2024-12-20 12:23:00,"Quando inflação dá galope, é preciso dar tempo para BC adequar busca da meta",Increase
+2024-12-20 12:23:00,Há anos Fed e BCE buscam centro da meta e ninguém fala que descumpriram,Increase
+2024-12-20 12:28:00,"Haddad: ""Havia muita dificuldade de alguns analistas entenderem que parte das despesas foram contratadas pelo governo anterior, como as emendas, fruto de uma ""terceirização"" da execução do orçamento sob Bolsonaro",Decrease
+2024-12-20 12:28:00,"Ministro estima que o Fundeb deve superar a marca de R$ 60 bi em 2026 e citou a ""PEC Kamikaze"", dos precatórios e as leis complementares sobre ICMS",Decrease
+2024-12-20 12:28:00,Tudo isso tivemos de honrar no primeiro ano de governo e estamos honrando até agora e faremos até 2026,Decrease
+2024-12-20 12:32:00,"Haddad: ""Não houve desidratação (do pacote), mas esses ajustes de redação não alteram a escala final, mantém na mesma ordem de grandeza o que foi encaminhado pelo Executivo",Decrease
+2024-12-20 12:32:00,.Estamos em uma democracia e temos de entender isso; o Congresso existe e ele opina e delibera. Achamos num prazo muito curto um resultado muito interessante,Decrease
+2024-12-20 12:32:00,"Não poderia deixar para o próximo ano, seria um ""banho de água fria; ministro diz que ""lutou por mais",Decrease
+2024-12-20 12:32:00,Trabalho sobre os gastos deve ser rotina,Decrease
+2024-12-20 12:36:00,"Haddad: ""Se depender de nós, esse processo da revisão teve início importante e deve continuar como prática rotineira",Increase
+2024-12-20 12:36:00,Não podemos negar os fatos de que programas que eram referência internacional foram desestruturados. Não é uma tarefa simples remontar o sistema de controle e acompanhamento do gasto público,Increase
+2024-12-20 12:36:00,Entendemos que de um lado os cálculos estavam subestimados e de outro desconsideravam alguns aspectos do pacote que tinham efeito fiscal que não estavam na planilha,Increase
+2024-12-20 12:36:00,Equipe está trabalhando no Senado para manter os mesmos textos aprovados pela Câmara,Increase
+2024-12-20 12:41:00,"Haddad: Proposta de alterar a correção do Fundo Constitucional do Distrito Federal (FCDF), como sugerido no pacote, foi saudável",Decrease
+2024-12-20 12:41:00,"A retirada do tema não afetará a potência das medidas, já que o impacto econômico foi reduzido de R$ 71,9 bilhões em dois anos para R$ 70 bilhões",Decrease
+2024-12-20 12:41:00,"Sobre os supersalários: ""Nunca consideramos o impacto fiscal do Judiciário na nossa planilha",Decrease
+2024-12-20 12:41:00,Disse que está feliz que as medidas de contenção de gastos forram aprovadas,Decrease
+2024-12-20 12:41:00,"Sei que esse discurso desagrada direta e esquerda, um lado não quer contenção de gastos e outro não quer pagar imposto. Como é que fecha as contas? Desafio vai além da questão ideológica e temos de mirar a sustentabilidade das contas",Decrease
+2024-12-20 12:45:00,"Senado inicia votação do projeto de lei do pacote fiscal que limita o crescimento real do salário mínimo ao máximo permitido pelo arcabouço fiscal, de 2,5% ao ano, e estabelece mudanças no BPC.",Increase
+2024-12-20 12:47:00,"Haddad: Gostaria que o Congresso deliberasse sobre o orçamento de 2025 ainda esse ano, mas não posso exigir mais que a capacidade de entrega",Increase
+2024-12-20 12:51:00,"Haddad: ""Os parâmetros do arcabouço não foram alterados. Não há intenção de alterá-los.",Stable
+2024-12-20 12:51:00,"Trabalho é garantir que esses parâmetros sejam sólidos, para garantir a convergência de receitas e despesas o mais rápido possível e reconstruir o superávit primário sem comprometer demasiadamente a atividade",Stable
+2024-12-20 12:51:00,Nós perdemos com o Perse e a desoneração da folha R$ 45 bilhões,Stable
+2024-12-20 12:51:00,"Queremos colocar todo gasto tributário na internet para que vocês vejam quem está recebendo recurso na forma de renúncia, pela primeira vez estamos dando toda a transparência",Stable
+2024-12-20 12:52:00,"Haddad: ""Não me entendo candidato; Lula tem as condições pela experiência que tem, pelo compromisso, pelo símbolo que representa, de chegar competitivo em 2026 e estando atento ao que precisa ser feito",Decrease
+2024-12-20 12:55:00,"NY passa a subir após dados da Univ. do Michigan: Dow 0,91%; S&P 0,78% e Nasdaq 0,72%",Decrease
+2024-12-20 12:58:00,"Fed/Goolsbee: Acho que juros cairão um pouco mais, ainda estão distantes do neutro",Increase
+2024-12-20 12:58:00,Inflação recente ficou um pouco acima do esperado,Increase
+2024-12-20 13:00:00,"Haddad: ""Não pretendo fazer nenhuma política parafiscal para 2025",Increase
+2024-12-20 13:06:00,"Fitch rebaixa os IDRs (rating de inadimplência do emissor) em moedas estrangeira e local da Azul de ""CC"" para ""C",Stable
+2024-12-20 13:06:00,"Rating nacional de longo prazo também foi rebaixado, de ""CC(bra)"" para ""C(bra)",Stable
+2024-12-20 13:06:00,"Além disso, agência rebaixou as notas seniores com garantia da Azul Secured Finance LLP de ""CC"" para ""C""; mantendo rating de recuperação ""RR4"", e afirmou o rating ""C/RR6"" das notas sem garantia da Azul Investments LLP",Stable
+2024-12-20 13:06:00,Bolsas ampliam alta em NY após Goolsbee abrir possibilidade de novos cortes de juros:,Stable
+2024-12-20 13:06:00,"Dow 1,14%; S&P500 1,06%; Nasdaq 1,04%",Stable
+2024-12-20 13:07:00,Senado aprova projeto do pacote fiscal com mudanças no BPC e salário mínimo; texto vai à sanção,Increase
+2024-12-20 13:13:00,"Senado inicia discussão do projeto que eleva arrecadação em R$ 16,8 bi em 2025",Decrease
+2024-12-20 13:16:00,EMPRESAS: PicPay estreia em FIDCs com emissão de R$ 700 milhões,Decrease
+2024-12-20 13:26:00,"Senado aprova último projeto do pacote fiscal, com promessa de veto à limitação do BPC",Stable
+2024-12-20 13:28:00,"EMPRESAS: Santos Brasil informou hoje que pagará, antecipadamente, JCP relativos ao período de outubro a dezembro",Stable
+2024-12-20 13:28:00,"O valor total é de R$ 39.641.040,65, equivalente a R$ 0,046088861 por ação",Stable
+2024-12-20 13:28:00,"Terão direito ao provento, acionistas na base da empresa em 24 de dezembro, com as ações sendo negociadas ""ex"" JCP a partir do dia 26",Stable
+2024-12-20 13:28:00,"Senado aprova projeto que eleva arrecadação em R$ 16,8 bi em 2025; texto segue para sanção presidencial",Stable
+2024-12-20 13:31:00,BTG reitera recomendação de compra para Klabin e Suzano,Increase
+2024-12-20 13:31:00,"Indústria da celulose indica condições de excesso de oferta no curto prazo, diz banco em relatório",Increase
+2024-12-20 13:37:00,"Europa/Fechamento: FTSE100 de Londres recua 0,01%; DAX de Frankfurt perde 0,29%; CAC40 de Paris cai 0,14%",Decrease
+2024-12-20 13:37:00,"indice Stoxx600 cai 0,76%, aos 502,33 pontos",Decrease
+2024-12-20 13:39:00,"Citi reforça recomendação de compra para Grupo Mateus, com preço-alvo a R$ 10",Decrease
+2024-12-20 13:39:00,"Acordo com a rede Novo Atacarejo é positivo, apesar da maior contribuição do grupo com lojas e centros de distribuição",Decrease
+2024-12-20 13:41:00,"EMPRESAS: BlackRock reduz participação da Usiminas para 27.288.063 ações PN classe A e 43.631 ADRs, representativos de 43.631 ações PN classe A",Increase
+2024-12-20 13:41:00,"Isso totaliza 27.331.694 ações PN, que representam aproximadamente 4,989% do total de ações PN classe A de emissão da companhia",Increase
+2024-12-20 13:41:00,"Dados públicos mais recentes apontavam que a BlackRock tinha participação de 5,15% dos papéis PN da Usiminas",Increase
+2024-12-20 13:42:00,Senado aprova projeto que alonga prazo para bancos deduzirem perdas e que pode gerar arrecadação de R$ 16 bi,Increase
+2024-12-20 13:44:00,Congresso abre sessão para promulgar PEC do pacote fiscal,Increase
+2024-12-20 13:53:00,"Expedição de papelão atinge 365,4 mil toneladas em novembro, maior volume para o mês desde 2005",Increase
+2024-12-20 13:53:00,Congresso promulga PEC do pacote fiscal,Increase
+2024-12-20 13:54:00,"EMPRESAS: GIC Private Limited eleva participação na Rumo, passando a deter 93.393.335 ações ON, que represem 5,04% do total de ações da companhia",Increase
+2024-12-20 13:54:00,Dados públicos mais recentes não mostravam o GIC entre os acionistas com participação relevante na companhia,Increase
+2024-12-20 14:07:00,Randolfe comemora conclusão do pacote fiscal e projeta pelo menos R$ 60 bilhões de economia até 2030,Increase
+2024-12-20 14:13:00,"EMPRESAS: Suzano avalia compra da americana Clearwater Paper, dizem fontes",Decrease
+2024-12-20 14:14:00,Pacheco: Confirmação do adiamento do PLOA caberá ao próximo presidente do Senado,Decrease
+2024-12-20 14:14:00,Certamente começaremos 2025 já com uma nova mesa comprometida com o Orçamento,Decrease
+2024-12-20 14:16:00,MERCADOS: Bolsas europeias recuam com nova ameaça de Trump de impor tarifas ao bloco,Decrease
+2024-12-20 14:28:00,Lira diz que Haddad ficou mais desgastado ao lançar pacote do que ao final das votações,Increase
+2024-12-20 14:42:00,Congresso tem 'carta na manga' para tentar acabar com governabilidade de Lula,Increase
+2024-12-20 14:44:00,Pacheco: Certamente 2025 vai ser pautado por discussão da qualidade do gasto público,Increase
+2024-12-20 14:44:00,As próprias emendas parlamentares pode ser discutidas,Increase
+2024-12-20 14:44:00,Pacote não é um exaurimento; é início de uma jornada de responsabilidade fiscal,Increase
+2024-12-20 14:48:00,"EMPRESAS: Automob lidera entre as maiores perdas, mas mantém fortes ganhos da estreia",Increase
+2024-12-20 14:49:00,"EUA: Agências federais devem se preparar para paralisação, alerta Casa Branca",Increase
+2024-12-20 14:51:00,"Ibovespa vira e sobe 0,24%, aos 121.473 pontos, na máxima do dia",Stable
+2024-12-20 15:04:00,Começa participação de Campos Neto em live de despedida do BC; acompanhe,Decrease
+2024-12-20 15:09:00,Giro das 15h: Bolsas disparam em NY com possível saída do shutdown; dolar cai e Ibovespa sobe com BC e pacote fiscal,Increase
+2024-12-20 15:10:00,"EUA/Baker Hughes: Número de poços e plataformas de petróleo em atividade aumenta em 1 na semana, para 483",Increase
+2024-12-20 15:16:00,"Taxa Ptax fecha em R$ 6,0780, baixa de 1,72%",Decrease
+2024-12-20 15:24:00,"Campos Neto: Conquista da autonomia foi grande ganho para o BC, mas trabalho não terminou",Decrease
+2024-12-20 15:26:00,Lula publica vídeo no X ao lado de Galípolo e Haddad,Decrease
+2024-12-20 15:28:00,Lula: Estamos oferecendo um presente ao Brasil: esse jovem chamado Galípolo está assumindo o BC,Stable
+2024-12-20 15:28:00,Lula diz a Galípolo: Jamais haverá qualquer interferência no trabalho que você tem no BC,Stable
+2024-12-20 15:29:00,Lula diz a Galípolo: Você vai ser o presidente com mais autonomia que o BC já teve,Increase
+2024-12-20 15:29:00,Certamente você vai dar uma lição de como é governar o BC com autonomia,Increase
+2024-12-20 15:30:00,Lula: Tomamos as medidas necessárias para proteger as novas regras fiscais,Stable
+2024-12-20 15:30:00,Estabilidade econômica e combate à inflação são o mais importante para proteger salários,Stable
+2024-12-20 15:33:00,"Eneva fecha contrato com a produtora de carbeto de silício SiCBRAS, do grupo Granha Ligas, para fornecimento de energia elétrica do Complexo Solar Futura I, por 15 anos",Decrease
+2024-12-20 15:33:00,Mercado doméstico reage a declarações de Lula,Decrease
+2024-12-20 15:33:00,"dolar à vista recua 1,08%, para R$ 6,0578, perto da mínima do dia (R$ 6,0525)",Decrease
+2024-12-20 15:33:00,"Ibovespa avança 0,45%, aos 121.731 pontos",Decrease
+2024-12-20 15:33:00,"Juros futuros ampliam queda: DI Jan27 a 15,160%; Jan/29 a 14,700%; Jan31 a 14,380%",Decrease
+2024-12-20 15:34:00,"Colombia: BC reduz taxa de juros em 25 pb, para 9,5%; decisão não foi unânime",Decrease
+2024-12-20 15:40:00,Lira avalia como erro adiar votação do Orçamento,Decrease
+2024-12-20 15:42:00,EUA: Trump quer meta de 5% do PIB com gastos em defesa para Otan,Decrease
+2024-12-20 15:46:00,Cobre passa por correção após forte baixa provocada pela decisão do Fed de reduzir ritmo de cortes de juros nos EUA em 2025,Increase
+2024-12-20 15:46:00,"Na Comex, o contrato para março subiu 0,75%, a US$ 4,1005 por libra-peso; na semana, caiu 2,17%",Increase
+2024-12-20 15:46:00,"Na LME, o contrato para três meses tinha alta de 0,60% há pouco, para US$ 8.938 por tonelada; na semana, perdia 1,29%",Increase
+2024-12-20 15:47:00,"Ibovespa recupera os 122 mil pontos, alta de 0,68%",Decrease
+2024-12-20 15:49:00,Campos Neto: Pix pode fazer muito mais coisa do que ele faz hoje,Decrease
+2024-12-20 15:56:00,Campos Neto: Não posso dizer que os últimos seis anos foram calmos,Increase
+2024-12-20 15:58:00,EMPRESAS: Ações ligadas ao ciclo econômico se destacam entre as altas com alívio dos juros futuros,Increase
+2024-12-20 15:59:00,"Campos Neto: Inflação global não caiu a contento, então juro no mundo será mais alto por mais tempo",Increase
+2024-12-20 15:59:00,Termina live do BC com Campos Neto,Increase
+2024-12-20 16:09:00,"ACENO. Em quase dois anos de mandato, é a primeira vez que Lula faz um aceno amistoso ao mercado. Dessa vez, não teve crítica aos juros altos, nem citação direta da Faria Lima. O presidente cedeu aos apelos da equipe econômica e gravou um vídeo defendendo a autonomia do BC e apoiando Galípolo, a quem considera como um ""presente para o Brasil"". Tudo isso, no mesmo dia em que o Congresso terminou de aprovar o pacote fiscal, em tempo recorde e com pouca desidratação, se comparado aos temores do mercado. ""Você será certamente o mais importante presidente do BC que esse país já teve, porque será o presidente com mais autonomia que o BC já teve. Pela sua qualidade profissional, experiência de vida e compromisso com o povo brasileiro. Certamente, vai dar uma lição de como se governa o BC com verdadeira autonomia"" disse Lula a Galípolo, na companhia de Haddad.",Stable
+2024-12-20 16:12:00,Campos Neto: Demos exemplo de transição suave no BC,Increase
+2024-12-20 16:22:00,"EUA: PCE de novembro mostra inflação ainda elevada, mas sem sinal de voltar a subir, avalia Oxford",Stable
+2024-12-20 16:26:00,"Ciclo de alta da Selic pode agravar trajetória fiscal, aponta Fitch",Increase
+2024-12-20 16:29:00,BCE/Guindos diz que guerra comercial é extremamente negativa para a economia global,Increase
+2024-12-20 16:36:00,"EMPRESAS: Petrobras mantém-se no campo negativo, mesmo com melhora do petróleo",Increase
+2024-12-20 16:57:00,MERCADOS: Ouro encerra sequência de perdas e avança com risco de shutdown nos EUA,Increase
+2024-12-20 17:01:00,"Petróleo/fechamento: Brent para fevereiro fecha em alta de 0,08%, a US$ 72,94 por barril, na ICE",Decrease
+2024-12-20 17:01:00,"WTI para fevereiro registra alta de 0,12%, a US$ 69,46 por barril, na Nymex",Decrease
+2024-12-20 17:03:00,"dolar à vista fecha em baixa de 0,84%, a R$ 6,0721, após oscilar entre R$ 6,0458 e R$ 6,1140",Increase
+2024-12-20 17:03:00,"Na semana, moeda subiu 0,68%",Increase
+2024-12-20 17:08:00,"MERCADOS: Petróleo encerra de lado, com alívio no dolar e atenção ao shutdown",Increase
+2024-12-20 17:12:00,"Lula fala em mudanças no governo durante almoço de fim de ano com ministros, mas não explica quais mudanças quer fazer nem quando (fontes do Broadcast)",Stable
+2024-12-20 17:16:00,Lula pede a ministros divulgação de ações do governo e diz que vai desacelerar (fontes do Broadcast),Stable
+2024-12-20 17:16:00,"Presidente afirmou que vai obedecer às ordens médicas, que restringem sua agenda pelos próximos 45 dias",Stable
+2024-12-20 17:26:00,"MERCADOS: dolar recua com nova injeção do BC, avanço do pacote fiscal e aceno de Lula",Increase
+2024-12-20 17:31:00,Petrobras inclui cláusula de promoção de direitos humanos em contratos com fornecedores,Decrease
+2024-12-20 17:37:00,Lira defende mais espaço para Câmara em reforma ministerial e diz a aliados que união da base depende de diálogo com Lula,Increase
+2024-12-20 17:43:00,Lula sinaliza a ministros que quer pacificação com o mercado,Decrease
+2024-12-20 17:43:00,Lula também disse a ministros que governo não pode gastar mais do que arrecada,Decrease
+2024-12-23 09:06:00,EMPRESAS: Dexco vende 8 mil hectares de florestas por R$ 200 milhões,Increase
+2024-12-23 09:06:00,"dolar sobe 0,68%, a R$ 6,1131; dolar futuro, 0,29%, a R$ 6,1175",Increase
+2024-12-23 09:06:00,"Ibovespa futuro cai 0,41% (123.390)",Increase
+2024-12-23 09:09:00,"Barr, do Fed, busca aconselhamento jurídico em meio a especulações de que Trump pode removê-lo, dizem fontes",Increase
+2024-12-23 09:18:00,"EMPRESAS: Petrobras realizará hoje o pagamento de dividendos extraordinários no valor bruto de R$ 1,55174293 por ação ordinária e preferencial",Decrease
+2024-12-23 09:28:00,"FGV: indice de Confiança da Construção subiu 0,9 ponto em dezembro, para 96,6 pontos",Increase
+2024-12-23 09:28:00,"Na média móvel trimestral, o índice variou -0,2 ponto, segundo resultado negativo consecutivo",Increase
+2024-12-23 09:31:00,Citi retoma cobertura de Cosan com recomendação de compra e preço-alvo a R$ 19,Decrease
+2024-12-23 09:31:00,Banco acredita que empresa deve apresentar melhores resultados nos próximos trimestres,Decrease
+2024-12-23 10:03:00,MERCADOS: dolar e juros sobem com exterior e fiscal,Decrease
+2024-12-23 10:10:00,EMPRESAS: Equatorial autoriza empréstimo de R$ 300 milhões do BNDES para controlada,Decrease
+2024-12-23 10:13:00,"Ibovespa encerra os leilões em queda de 0,46%, aos 121.545,56 pontos",Increase
+2024-12-23 10:34:00,"EUA/Fed de Chicago: indice de atividade nacional em novembro sobe a -0,12, de -0,50% (revisado de -0,40%)",Increase
+2024-12-23 10:43:00,"Moody Äôs Local reitera nota de crédito nacional ""AAA.br"" da Sabesp, mantendo perspectiva estável",Stable
+2024-12-23 10:43:00,"Nota reflete fluxo de caixa estável e previsível da companhia, impulsionado por baixa elasticidade de demanda",Stable
+2024-12-23 10:43:00,"Visão de crédito reflete também intensivo programa de investimentos e moderada alavancagem, diz agência de classificação de risco",Stable
+2024-12-23 10:47:00,EMPRESAS: Arsesp aprova primeiro aditivo do contrato de concessão com URAE 1 Äì Sudeste,Decrease
+2024-12-23 10:54:00,EMPRESAS: Oi ON sobe mais de 6% após proposta para venda de operação de TV por assinatura,Increase
+2024-12-23 11:00:00,"Bradesco BBI corta preço-alvo de Eletrobras ON de R$ 69 para R$ 60; PNB foi de R$ 59 para R$ 55, com recomendação de compra",Increase
+2024-12-23 11:00:00,Banco mantém perspectivas positivas sobre a companhia nos próximos trimestres,Increase
+2024-12-23 11:18:00,EMPRESAS: Sabesp sobe após primeiro aditivo ao contrato de concessão,Decrease
+2024-12-23 11:30:00,"BALANáOS: IRB registra lucro líquido de R$ 24,2 milhões em outubro",Increase
+2024-12-23 11:30:00,"Companhia arrecadou R$ 481,9 milhões em prêmio no período, com sinistralidade de 78,2% no mês",Increase
+2024-12-23 11:31:00,"NY/Abertura: Dow -0,14% (42.780,79); S&P 0,15% (5.940,02) e Nasdaq 0,41% (19.652,35)",Increase
+2024-12-23 11:51:00,"BTG reforça recomendação de compra para Eletrobras ON, com preço-alvo a R$ 59",Decrease
+2024-12-23 11:51:00,"Dividendos anunciados na última semana dão indicativos das mudanças de política de pagamentos, avalia o banco",Decrease
+2024-12-23 11:52:00,"MERCADOS: Fiscal e piora das projeções para juros e inflação derrubam Ibovespa, enquanto dolar e juros avançam",Stable
+2024-12-23 12:28:00,"EUA/Conference Board: Confiança ao Consumidor de outubro cai a 104,7, ante consenso de 114",Decrease
+2024-12-23 12:32:00,"EUA: Vendas de moradias novas em novembro sobem 5,9%, a 664 mil, ante previsão de 10,7%",Decrease
+2024-12-23 12:37:00,"EUA/Depto do Comércio: Encomendas de bens duráveis de novembro caem 1,1%, ante consenso de -0,3%",Increase
+2024-12-23 12:39:00,"EMPRESAS: BB Seguridade irá pagar R$ 7,11 bilhões em dividendos",Increase
+2024-12-23 13:05:00,"EMPRESAS: Após divulgar resultados financeiros, IRB fica entre as maiores altas",Increase
+2024-12-23 13:16:00,EMPRESAS: Brava confirma rescisão de contrato com a Petrobras,Stable
+2024-12-23 13:18:00,BC: Fluxo cambial negativo em dezembro reflete sazonalidade de dividendos,Increase
+2024-12-23 13:35:00,"Europa/Fechamento: FTSE100 de Londres sobe 0,15%; DAX de Frankfurt cai 0,23%; CAC40 de Paris recua 0,07%",Stable
+2024-12-23 13:35:00,"indice Stoxx600 fecha em alta de 0,07%, aos 502,55 pontos",Stable
+2024-12-23 13:41:00,EMPRESAS: Hypera lidera altas em movimento de ajuste,Decrease
+2024-12-23 13:51:00,Líderes da Câmara veem exagero de Dino em decisão que manda PF investigar liberação de emendas parlamentares,Stable
+2024-12-23 13:58:00,MERCADOS: Bolsas europeias fecham com oscilações modestas em meio a semana de baixa liquidez,Increase
+2024-12-23 14:01:00,Israel: Netanyahu reconhece algum avanço em negociações de cessar-fogo com Hamas,Increase
+2024-12-23 14:21:00,Governo avalia que mercado erra ao desconsiderar impacto do Fundeb no pacote fiscal,Stable
+2024-12-23 14:29:00,Suzano comunica a clientes asiáticos aumento de US$ 20 por tonelada de celulose (fontes do Broadcast),Stable
+2024-12-23 14:33:00,Aumento da Suzano na Europa e na América do Norte é de US$ 100 a tonelada da celulose (fontes do Broadcast),Stable
+2024-12-23 14:34:00,"Juro real dispara e encosta em 10%, maior nível desde 2008",Increase
+2024-12-23 14:34:00,"dolar à vista sobe 1,94%, a R$ 6,1901, na máxima do dia",Increase
+2024-12-23 14:41:00,EMPRESAS: Suzano amplia ganhos com notícia sobre aumento do preço da celulose,Increase
+2024-12-23 14:42:00,"Taxa Ptax fecha em R$ 6,1612, alta de 1,37%",Increase
+2024-12-23 14:44:00,EMPRESAS/EUA: ìrgão regulador processa Walmart por abertura ilegal de contas para entregadores,Stable
+2024-12-23 14:49:00,Decisão de Dino deve pressionar Hugo Motta a avançar com PEC que obriga o pagamento de emendas,Decrease
+2024-12-23 14:53:00,Jaques Wagner: Saúde de Lula não é problema para 2026 e decisão será dele,Stable
+2024-12-23 14:58:00,Suzano confirma aumento de preços da celulose a partir de 1o de janeiro,Stable
+2024-12-23 15:03:00,EMPRESAS: BB Seguridade realiza e distribuição de dividendos fica para segundo plano,Increase
+2024-12-23 15:06:00,MDIC: Balança registra déficit comercial de US$ 283 milhões na 3a semana de dezembro,Stable
+2024-12-23 15:06:00,"Exportações somam US$ 5,616 bi; importações atingem US$ 5,898 bi na 3a semana",Stable
+2024-12-23 15:06:00,"Superávit acumulado no mês é de US$ 1,297 bi; no ano, superávit alcança US$ 71,153 bi",Stable
+2024-12-23 15:09:00,"MERCADOS: Risco fiscal e ruído político mantêm dolar e juros em alta; Ibovespa recua, enquanto bolsas em NY seguem mistas",Stable
+2024-12-23 15:12:00,"Cobre recua com avanço do dolar sobre os pares (DXY 0,47%) em semana de liquidez reduzida",Increase
+2024-12-23 15:12:00,"Na Comex, o contrato para março caiu 0,38%, a US$ 4,0850 por libra-peso",Increase
+2024-12-23 15:12:00,"Na LME, o contrato para três meses tinha baixa de 0,30% há pouco, para US$ 8.917,50 por tonelada",Increase
+2024-12-23 15:25:00,China tomará medidas para proteger direitos contra investigação dos EUA sobre chips,Increase
+2024-12-23 15:43:00,MERCADOS: Ouro recua com avanço do dolar e dos juros dos Treasuries,Increase
+2024-12-23 15:48:00,"EMPRESAS: Dona do iFood e da OLX anuncia acordo para comprar Decolar por US$ 1,7 bilhão",Decrease
+2024-12-23 16:02:00,"Pacote fiscal pode ajudar a interromper espiral negativa do mercado, mas há necessidade de mais medidas, avalia Barclays",Decrease
+2024-12-23 16:05:00,EMPRESAS: Crescimento da Despegar contrasta com desempenho da concorrente CVC,Decrease
+2024-12-23 16:39:00,"EMPRESAS: Em destaque entre as maiores altas, Suzano recupera R$ 2 bi em valor de mercado",Decrease
+2024-12-23 16:45:00,"Petróleo/fechamento: Brent para fevereiro fecha em baixa de 0,42%, a US$ 72,63 por barril, na ICE",Decrease
+2024-12-23 16:45:00,"WTI para fevereiro registra queda de 0,31%, a US$ 69,24 por barril, na Nymex",Decrease
+2024-12-23 16:52:00,MERCADOS: Petróleo recua com dolar forte e dados fracos nos EUA aumentando incerteza sobre demanda,Increase
+2024-12-23 16:56:00,"Patrícia Baran assume diretoria-geral da ANP interinamente, após fim de mandato de Rodolfo Saboia",Stable
+2024-12-23 16:56:00,"Ela ficará no posto até a aprovação pelo Senado do nome de Artur Watt Neto, indicado por Lula para comandar a Agência",Stable
+2024-12-23 17:01:00,"dolar à vista fecha em alta de 1,86%, a R$ 6,1851, após oscilar entre R$ 6,1091 e R$ 6,2010",Stable
+2024-12-23 17:11:00,"MERCADOS: BC não aparece e dolar volta a testar os R$ 6,20 com fluxo de remessas e risco fiscal",Stable
+2024-12-23 17:35:00,PDT vai ao STF pedir suspensão da última decisão do Copom,Decrease
+2024-12-26 09:02:00,"dolar cai a R$ 6,1591 (-0,42%) e dolar futuro a R$ 6,1620 (-0,69%)",Increase
+2024-12-26 09:02:00,"Ibovespa futuro cai 0,06% (122.095)",Increase
+2024-12-26 09:23:00,MERCADOS: dolar oscila em meio a um novo leilão e juros sobem com exterior e fiscal,Decrease
+2024-12-26 09:31:00,"BC vende oferta integral de US$ 3 bi em leilão à vista, com diferencial de corte, de 0,000100",Decrease
+2024-12-26 09:53:00,Palestina: Israel mata cinco jornalistas da TV Al Quds em ataque a carro,Decrease
+2024-12-26 09:53:00,"Até agora, maios de 130 repórteres palestinos foram mortos desde o início dos ataques israelenses contra a Faixa de Gaza",Decrease
+2024-12-26 10:09:00,"Ibovespa encerra os leilões em alta de 0,21%, aos 121.020,48 pontos",Increase
+2024-12-26 10:27:00,EMPRESAS: Embraer recua após acidente envolvendo aeronave da companhia,Increase
+2024-12-26 10:30:00,"EUA/Depto do Trabalho: Pedidos de auxílio-desemprego ficam em 219 mil, ante 224 mil no consenso",Stable
+2024-12-26 11:05:00,"EMPRESAS: Petroleiras operam em alta, seguindo o petróleo",Increase
+2024-12-26 11:10:00,Lira chama líderes partidários para reunião hoje à tarde,Increase
+2024-12-26 11:10:00,"Encontro ocorre após Flávio Dino (STF) determinar o bloqueio de R$ 4,2 bi em emendas parlamentares com assinatura de 17 líderes de bancadas",Increase
+2024-12-26 11:10:00,Lira diz que a reunião de hoje irá tratar da eleição da Mesa Diretora da Casa,Increase
+2024-12-26 11:16:00,EUA: Pedidos contínuos de auxílio atingem o nível mais alto em mais de três anos,Stable
+2024-12-26 11:29:00,EMPRESAS: Ações cíclicas são destaque de baixa no Ibovespa,Stable
+2024-12-26 11:31:00,"NY/Abertura: Dow Jones -0,37% (43.135,22); S&P -0,27% (6.023,82) e Nasdaq -0,24% (19.983,73)",Increase
+2024-12-26 11:34:00,"Em 2025, companhia irá trabalhar para reduzir preocupações do mercado em torno de sua complexidade, diz o banco",Decrease
+2024-12-26 11:50:00,"EMPRESAS: Papéis da B3 avançam, após anúncio de pagamento de JCP",Decrease
+2024-12-26 11:53:00,"Bradesco BBI reforça recomendação de compra para os ADRs da Embraer, com preço-alvo a US$ 43",Decrease
+2024-12-26 11:53:00,Queda de uma aeronave E190 no Cazaquistão não dever ter impactos significativos nas ações,Decrease
+2024-12-26 11:58:00,"MERCADOS: Bolsa sobe com ações de peso, enquanto juros avançam com fiscal e dolar cai após leilão",Increase
+2024-12-26 12:34:00,Bloomberg Economics/Eliza Winger: O aumento de pedidos contínuos mostra que o mercado de trabalho está desacelerando,Stable
+2024-12-26 12:43:00,EMPRESAS: Bancos sobem em bloco após resolução do CMN,Decrease
+2024-12-26 13:06:00,EMPRESAS: IRB lidera altas depois de papel ter entrado em várias carteiras,Increase
+2024-12-26 13:08:00,"Ibovespa na máxima do dia em 121.448,30 pontos (0,56%)",Increase
+2024-12-26 13:14:00,EMPRESAS: Eletrobras conclui modernização de subestação no RS,Decrease
+2024-12-26 13:27:00,EMPRESAS: Caixa Seguridade fica entre as maiores baixas do Ibovespa,Increase
+2024-12-26 13:29:00,"Ministério do Trabalho altera horário de divulgação do Caged para as 10h, amanhã",Increase
+2024-12-26 13:29:00,"Äs 10h, o secretário-executivo Francisco Macena comentará os números",Increase
+2024-12-26 13:39:00,Investidor local deixa de apostar no real pela 1a vez desde março de 2023,Increase
+2024-12-26 13:48:00,Padilha: Expectativa é concluir a votação do Orçamento de 2025 até março,Increase
+2024-12-26 13:52:00,Padilha sobre emendas: AGU nos orientou a manter cumprimento das decisões de Dino,Stable
+2024-12-26 13:55:00,Padilha sobre reforma do imposto sobre a renda: Debate deve acontecer ao longo de 2025,Decrease
+2024-12-26 13:55:00,Votação sobre o tema - inclusive isenção do IR sobre até R$ 5 mil - deve ocorrer ao longo de 2025,Decrease
+2024-12-26 13:55:00,Reforma vai ser neutra em termos de carga tributária,Decrease
+2024-12-26 13:56:00,Padilha: Lula fará tudo para combinar responsabilidade social com fiscal,Increase
+2024-12-26 14:02:00,Padilha: Mudança em ministérios podem ocorrer de olho em 2026,Increase
+2024-12-26 14:10:00,Receita e Tesouro não têm datas para divulgar arrecadação e primário de novembro,Stable
+2024-12-26 14:12:00,"Bolsas de NY viram e registram ligeira alta: Dow Jones 0,13%, S P 500 0,08% e Nasdaq 0,07%",Increase
+2024-12-26 14:34:00,"Tesouro: Dívida Pública Federal (DPF) fecha em R$ 7,204 trilhões em novembro, alta de 1,85% sobre outubro",Increase
+2024-12-26 14:34:00,"DPMFi sobe 1,71% para R$ 6,863 trilhões",Increase
+2024-12-26 14:34:00,"DPFe aumenta 4,78% em novembro ante outubro, a R$ 340,76 bilhões",Increase
 2024-12-26 14:36:00,EMPRESAS: Brava Energia amplia ganhos e se destaca entre as maiores altas,Increase
 2024-12-26 14:48:00,"Tesouro: Dívida Pública Federal (DPF) sobe 1,85% em novembro sobre outubro, para R$ 7,204 trilhões",Stable
 2024-12-26 14:49:00,"BC: Fluxo cambial total na 3a semana de dezembro (16 a 20/12) foi negativo em US$ 11,639 bilhões",Decrease
