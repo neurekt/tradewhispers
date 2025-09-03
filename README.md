@@ -45,6 +45,6 @@ See `LICENSE` for more information.
 <!-- Author -->
 ## Author
 
-Massimo Scarozza - gmscarozza@gmail.com
+Ganesh Scarozza - gmscarozza@gmail.com
 
 Project Link: [https://github.com/neurekt/tradewhispers](https://github.com/neurekt/tradewhispers)
