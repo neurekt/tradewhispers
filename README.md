@@ -41,10 +41,10 @@ Clone the repo
 
 See `LICENSE` for more information.
 
-
-<!-- Author -->
-## Author
-
-Massimo Scarozza - gmscarozza@gmail.com
-
 Project Link: [https://github.com/neurekt/tradewhispers](https://github.com/neurekt/tradewhispers)
+
+------------------
+
+Sources: 
+corpus, corpus-1, corpus-2 - Bom Dia Mercado
+corpus-3 and 4 - unknown
